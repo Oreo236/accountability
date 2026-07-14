@@ -11,7 +11,9 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Deadline" />
-  <link rel="stylesheet" href="css/style.css" />
+  <!-- Bump ?v= on both tags below whenever a real CSS/JS change is pushed —
+       iOS home-screen apps can otherwise resume a stale cached copy. -->
+  <link rel="stylesheet" href="css/style.css?v=1" />
 </head>
 <body>
   <header class="topbar">
@@ -89,6 +91,6 @@
     </section>
   </main>
 
-  <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/app.js?v=1"></script>
 </body>
 </html>
