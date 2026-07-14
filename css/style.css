@@ -82,6 +82,14 @@ main { padding: 0 1.25rem; }
 }
 .task.done .mark-btn { background: transparent; color: var(--ok); }
 
+.section-heading { margin: 1.5rem 0 0.6rem; font-size: 1rem; color: var(--muted); }
+
+.homework-form { display: grid; grid-template-columns: 1fr 8.5rem auto; gap: 0.4rem; margin-bottom: 0.6rem; }
+.homework-form input {
+  background: var(--surface-2); border: 1px solid var(--border); color: var(--text);
+  border-radius: 0.4rem; padding: 0.5rem; font-size: 0.85rem; min-width: 0;
+}
+
 .empty { color: var(--muted); text-align: center; padding: 2rem 0; }
 .hint { color: var(--muted); font-size: 0.85rem; }
 

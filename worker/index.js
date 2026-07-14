@@ -14,8 +14,12 @@ function corsHeaders(env) {
   return {
     'Access-Control-Allow-Origin': env.ALLOWED_ORIGIN,
     'Access-Control-Allow-Methods': 'GET,POST,DELETE,OPTIONS',
-    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Allow-Headers': 'Content-Type, X-Api-Key',
   };
+}
+
+function isAuthorized(request, env) {
+  return request.headers.get('X-Api-Key') === env.API_SECRET;
 }
 
 function json(env, data, status = 200) {
@@ -140,6 +144,51 @@ async function handleApplications(request, env) {
   return json(env, { error: 'method not allowed' }, 405);
 }
 
+async function handleHomework(request, env) {
+  if (request.method === 'GET') {
+    const raw = await redis(env, 'GET', 'homework');
+    const items = raw ? JSON.parse(raw) : [];
+    const doneIds = (await redis(env, 'SMEMBERS', 'homework:done')) || [];
+    return json(env, { items, doneIds });
+  }
+  if (request.method === 'POST') {
+    const { label, dueDate } = await request.json();
+    if (!label || !dueDate) return json(env, { error: 'label and dueDate required' }, 400);
+    const raw = await redis(env, 'GET', 'homework');
+    const items = raw ? JSON.parse(raw) : [];
+    const item = { id: `hw-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`, label, dueDate };
+    items.push(item);
+    await redis(env, 'SET', 'homework', JSON.stringify(items));
+    const doneIds = (await redis(env, 'SMEMBERS', 'homework:done')) || [];
+    return json(env, { items, doneIds });
+  }
+  if (request.method === 'DELETE') {
+    const { id } = await request.json();
+    if (!id) return json(env, { error: 'id required' }, 400);
+    const raw = await redis(env, 'GET', 'homework');
+    const items = (raw ? JSON.parse(raw) : []).filter((h) => h.id !== id);
+    await redis(env, 'SET', 'homework', JSON.stringify(items));
+    await redis(env, 'SREM', 'homework:done', id);
+    const doneIds = (await redis(env, 'SMEMBERS', 'homework:done')) || [];
+    return json(env, { items, doneIds });
+  }
+  return json(env, { error: 'method not allowed' }, 405);
+}
+
+async function handleHomeworkDone(request, env) {
+  const { id } = await request.json();
+  if (!id) return json(env, { error: 'id required' }, 400);
+  if (request.method === 'POST') {
+    await redis(env, 'SADD', 'homework:done', id);
+    return json(env, { ok: true });
+  }
+  if (request.method === 'DELETE') {
+    await redis(env, 'SREM', 'homework:done', id);
+    return json(env, { ok: true });
+  }
+  return json(env, { error: 'method not allowed' }, 405);
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -148,12 +197,18 @@ export default {
       return new Response(null, { headers: corsHeaders(env) });
     }
 
+    if (!isAuthorized(request, env)) {
+      return json(env, { error: 'unauthorized' }, 401);
+    }
+
     try {
       if (url.pathname === '/schedule') return await handleSchedule(request, env);
       if (url.pathname === '/done') return await handleDone(request, env, url);
       if (url.pathname === '/streak') return await handleStreak(env);
       if (url.pathname === '/subscribe') return await handleSubscribe(request, env);
       if (url.pathname === '/applications') return await handleApplications(request, env);
+      if (url.pathname === '/homework') return await handleHomework(request, env);
+      if (url.pathname === '/homework/done') return await handleHomeworkDone(request, env);
       return json(env, { error: 'not found' }, 404);
     } catch (err) {
       return json(env, { error: err.message }, 500);

@@ -2,6 +2,8 @@
 
 Everything is scaffolded. These are the steps only you can do (accounts, secrets, and the one-time device install).
 
+> **Already deployed the Worker once?** `worker/index.js` gained new routes (homework tracker) and an auth check since your first deploy. Run `cd worker && wrangler deploy` again, then `wrangler secret put API_SECRET` (step 4.4) to pick up both.
+
 ## 1. Install dependencies locally
 
 ```
@@ -42,13 +44,17 @@ You'll paste these in two places: as Cloudflare Worker secrets (step 4) and as G
    wrangler deploy
    ```
    This prints your Worker URL, e.g. `https://deadline-api.yourname.workers.dev`.
-4. Set the two Redis secrets on the Worker (it'll prompt you to paste the value):
+4. Set the Redis secrets and an API secret on the Worker (it'll prompt you to paste each value):
    ```
    wrangler secret put UPSTASH_REDIS_REST_URL
    wrangler secret put UPSTASH_REDIS_REST_TOKEN
+   wrangler secret put API_SECRET
    ```
+   For `API_SECRET`, paste any random passphrase — e.g. generate one with `openssl rand -hex 16`. This is a lightweight gate so a stranger poking at your Worker URL directly (bypassing the browser/CORS entirely) can't read or write your data. It's not bulletproof security, just a lock on an otherwise-open door.
 5. Open [worker/wrangler.toml](worker/wrangler.toml) and confirm `ALLOWED_ORIGIN` matches your GitHub Pages URL exactly (set up in step 6) — no trailing slash. Re-run `wrangler deploy` if you change it.
 6. Back in [js/config.js](js/config.js), paste your Worker URL into `WORKER_URL`.
+
+The passphrase itself does **not** go in `config.js` — that file is committed to your public repo, and hardcoding it there would defeat the point. Instead, the first time the app calls the Worker it'll pop up a one-time prompt asking for the passphrase, then remembers it in that browser's local storage only. Enter the same value you gave `wrangler secret put API_SECRET`. If you ever mistype it, the app clears the stored value automatically on a 401 and asks again next time.
 
 ## 5. Add GitHub Actions secrets
 

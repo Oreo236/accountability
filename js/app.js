@@ -3,6 +3,7 @@ import { ensurePushSubscription } from './push.js';
 import { pickActiveProfile, tasksForWeekday, zonedNow, classifyTask } from './lib/schedule-logic.mjs';
 import { initJobsTab } from './jobs.js';
 import { initScheduleEditor } from './schedule-editor.js';
+import { initHomework } from './homework.js';
 
 const REFRESH_MS = 30_000;
 
@@ -119,3 +120,4 @@ setInterval(refreshAll, REFRESH_MS);
 
 initJobsTab();
 initScheduleEditor();
+initHomework();

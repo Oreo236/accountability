@@ -54,17 +54,9 @@ async function send(payload) {
   }
 }
 
-async function main() {
-  const profiles = await loadProfiles();
-  const anchor = pickActiveProfile(profiles, new Date().toISOString().slice(0, 10));
-  if (!anchor) {
-    console.log('No active schedule profile — nothing to do.');
-    return;
-  }
-
-  const { dateStr, weekday, minutes } = zonedNow(anchor.timezone);
-  const profile = pickActiveProfile(profiles, dateStr) ?? anchor;
-  const tasks = tasksForWeekday(profile, weekday);
+async function checkTasks(profiles, dateStr, weekday, minutes) {
+  const profile = pickActiveProfile(profiles, dateStr);
+  const tasks = profile ? tasksForWeekday(profile, weekday) : [];
   if (!tasks.length) {
     console.log(`No tasks scheduled for ${dateStr}.`);
     return;
@@ -96,6 +88,44 @@ async function main() {
       await markSent(dateStr, task.id, 'followup');
     }
   }
+}
+
+// One reminder per homework item per day, from the moment it's added until it's
+// marked done — no time-of-day input needed, it just fires on each day's first run.
+async function checkHomework(dateStr) {
+  const raw = await redis.get('homework');
+  const items = raw ? JSON.parse(raw) : [];
+  if (!items.length) return;
+
+  const doneIds = new Set((await redis.smembers('homework:done')) || []);
+
+  for (const item of items) {
+    if (doneIds.has(item.id)) continue;
+    if (await alreadySent(dateStr, item.id, 'homework')) continue;
+
+    const days = Math.round((new Date(`${item.dueDate}T00:00:00Z`) - new Date(`${dateStr}T00:00:00Z`)) / 86400000);
+    const body =
+      days > 0 ? `Due in ${days} day${days === 1 ? '' : 's'}.` : days === 0 ? 'Due today.' : `Overdue by ${-days} day${-days === 1 ? '' : 's'}.`;
+
+    await send({
+      title: `Homework: ${item.label}`,
+      body,
+      tag: `${item.id}-homework`,
+      url: './index.html',
+      urgent: days <= 0,
+    });
+    await markSent(dateStr, item.id, 'homework');
+  }
+}
+
+async function main() {
+  const profiles = await loadProfiles();
+  const anchor = pickActiveProfile(profiles, new Date().toISOString().slice(0, 10));
+  const timezone = anchor?.timezone ?? 'UTC';
+  const { dateStr, weekday, minutes } = zonedNow(timezone);
+
+  await checkTasks(profiles, dateStr, weekday, minutes);
+  await checkHomework(dateStr);
 }
 
 main().catch((err) => {

@@ -10,3 +10,4 @@ ALLOWED_ORIGIN = "https://oreo236.github.io"
 # Secrets (set via `wrangler secret put NAME`, not stored here):
 #   UPSTASH_REDIS_REST_URL
 #   UPSTASH_REDIS_REST_TOKEN
+#   API_SECRET   (a random passphrase — also goes in js/config.js as API_KEY)

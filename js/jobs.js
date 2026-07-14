@@ -5,8 +5,9 @@ const FRESH_DAYS = 3;
 
 let listings = [];
 let applications = {};
-let sortKey = 'age';
+let sortKey = 'ageDays';
 let sortDir = 1;
+let categoryFilter = 'all';
 
 function ageInDays(ageStr) {
   const m = /(\d+)\s*d/i.exec(ageStr || '');
@@ -43,6 +44,7 @@ function renderJobs() {
   }));
 
   if (onlyNotApplied) rows = rows.filter((r) => r.status === 'not_applied');
+  if (categoryFilter !== 'all') rows = rows.filter((r) => r.category === categoryFilter);
 
   rows.sort((a, b) => {
     const av = a[sortKey];
@@ -58,6 +60,7 @@ function renderJobs() {
       <td>${job.company}</td>
       <td class="pos">${job.position}</td>
       <td class="loc">${job.location}</td>
+      <td>${job.category}</td>
       <td>${job.salary || '—'}</td>
       <td>${job.age || '—'}</td>
       <td></td>
@@ -86,9 +89,13 @@ function renderJobs() {
 
 export function initJobsTab() {
   document.getElementById('filter-not-applied').addEventListener('change', renderJobs);
+  document.getElementById('filter-category').addEventListener('change', (e) => {
+    categoryFilter = e.target.value;
+    renderJobs();
+  });
   document.querySelectorAll('#jobs-table th[data-sort]').forEach((th) => {
     th.addEventListener('click', () => {
-      const key = th.dataset.sort;
+      const key = th.dataset.sort === 'age' ? 'ageDays' : th.dataset.sort;
       sortDir = sortKey === key ? -sortDir : 1;
       sortKey = key;
       renderJobs();

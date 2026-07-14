@@ -33,6 +33,15 @@
       <button id="enable-push" class="cta">Enable notifications</button>
       <ul id="task-list" class="task-list"></ul>
       <p id="task-empty" class="empty" hidden>Nothing scheduled today. Rest up.</p>
+
+      <h3 class="section-heading">Homework</h3>
+      <form id="homework-form" class="homework-form">
+        <input id="homework-label" placeholder="What's due" required />
+        <input id="homework-due" type="date" required />
+        <button type="submit" class="add-task-btn">Add</button>
+      </form>
+      <ul id="homework-list" class="task-list"></ul>
+      <p id="homework-empty" class="empty" hidden>No homework tracked. Add something above.</p>
     </section>
 
     <section id="tab-jobs" class="tab-panel">
@@ -41,6 +50,12 @@
           <input type="checkbox" id="filter-not-applied" checked />
           Show only not-yet-applied
         </label>
+        <select id="filter-category" class="status">
+          <option value="all">All categories</option>
+          <option value="FAANG+">FAANG+</option>
+          <option value="Quant">Quant</option>
+          <option value="Other">Other</option>
+        </select>
         <span id="jobs-updated" class="jobs-updated"></span>
       </div>
       <div class="table-wrap">
@@ -50,6 +65,7 @@
               <th data-sort="company">Company</th>
               <th data-sort="position">Position</th>
               <th data-sort="location">Location</th>
+              <th data-sort="category">Category</th>
               <th data-sort="salary">Salary</th>
               <th data-sort="age">Age</th>
               <th data-sort="status">Status</th>
