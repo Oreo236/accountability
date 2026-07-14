@@ -10,7 +10,7 @@ import zlib
 import os
 
 BG = (15, 23, 42, 255)       # #0f172a
-ACCENT = (239, 68, 68, 255)  # #ef4444
+ACCENT = (236, 72, 153, 255)  # #ec4899 (pink)
 WHITE = (232, 236, 247, 255)
 
 

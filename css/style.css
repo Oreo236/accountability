@@ -5,6 +5,8 @@
   --text: #e8ecf7;
   --muted: #8b96b3;
   --accent: #ef4444;
+  --pink: #ec4899;
+  --pink-soft: rgba(236, 72, 153, 0.18);
   --ok: #22c55e;
   --warn: #f59e0b;
   --border: #26314f;
@@ -32,25 +34,29 @@ body {
 .brand-mark {
   display: inline-flex; align-items: center; justify-content: center;
   width: 1.6rem; height: 1.6rem; border-radius: 0.4rem;
-  background: var(--accent); color: white; font-weight: 900;
+  background: var(--pink); color: white; font-weight: 900;
 }
-.streak { font-size: 0.85rem; color: var(--muted); background: var(--surface); padding: 0.35rem 0.7rem; border-radius: 999px; }
+.streak {
+  font-size: 0.85rem; color: var(--pink); background: var(--pink-soft);
+  padding: 0.35rem 0.7rem; border-radius: 999px; border: 1px solid var(--pink);
+}
 
 .tabs { display: flex; gap: 0.4rem; padding: 0 1.25rem 0.75rem; }
 .tab {
   flex: 1; padding: 0.55rem 0.5rem; border: none; border-radius: 0.6rem;
   background: var(--surface); color: var(--muted); font-size: 0.85rem; font-weight: 600;
 }
-.tab.active { background: var(--accent); color: white; }
+.tab.active { background: var(--pink); color: white; }
 
 main { padding: 0 1.25rem; }
 .tab-panel { display: none; }
 .tab-panel.active { display: block; }
 
 .cta {
-  width: 100%; padding: 0.8rem; border: none; border-radius: 0.6rem;
+  width: 100%; padding: 0.8rem; border: 1px solid var(--pink); border-radius: 0.6rem;
   background: var(--surface-2); color: var(--text); font-weight: 700; margin-bottom: 1rem;
 }
+.cta:active { background: var(--pink-soft); }
 
 .task-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.6rem; }
 
@@ -82,7 +88,7 @@ main { padding: 0 1.25rem; }
 }
 .task.done .mark-btn { background: transparent; color: var(--ok); }
 
-.section-heading { margin: 1.5rem 0 0.6rem; font-size: 1rem; color: var(--muted); }
+.section-heading { margin: 1.5rem 0 0.6rem; font-size: 1rem; color: var(--pink); }
 
 .homework-form { display: grid; grid-template-columns: 1fr 8.5rem auto; gap: 0.4rem; margin-bottom: 0.6rem; }
 .homework-form input {
@@ -95,21 +101,27 @@ main { padding: 0 1.25rem; }
 
 .jobs-controls { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem; gap: 0.5rem; flex-wrap: wrap; }
 .checkbox { display: flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; color: var(--muted); }
+.checkbox input[type="checkbox"] { accent-color: var(--pink); }
 .jobs-updated { font-size: 0.75rem; color: var(--muted); }
 
 .table-wrap { overflow-x: auto; border-radius: 0.75rem; background: var(--surface); }
 table { width: 100%; border-collapse: collapse; font-size: 0.85rem; min-width: 640px; }
 th, td { text-align: left; padding: 0.6rem 0.7rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
 th { color: var(--muted); font-weight: 600; cursor: pointer; }
-tr.fresh td:first-child { box-shadow: inset 3px 0 0 var(--warn); }
+th:hover { color: var(--pink); }
+tr.fresh td:first-child { box-shadow: inset 3px 0 0 var(--pink); }
 td.pos, td.loc { white-space: normal; }
+td.pos a { color: var(--pink); text-decoration: none; }
+td.pos a:hover { text-decoration: underline; }
 
 select.status {
   background: var(--surface-2); color: var(--text); border: 1px solid var(--border);
   border-radius: 0.4rem; padding: 0.3rem 0.4rem; font-size: 0.8rem;
 }
+select.status:focus, input:focus { outline: 2px solid var(--pink); outline-offset: 1px; }
 
-.day-block { background: var(--surface); border-radius: 0.75rem; padding: 0.8rem; margin-bottom: 0.7rem; }
+.day-block { background: var(--surface); border-radius: 0.75rem; padding: 0.8rem; margin-bottom: 0.7rem; border-left: 3px solid transparent; }
+.day-block:hover { border-left-color: var(--pink); }
 .day-block h3 { margin: 0 0 0.5rem; font-size: 0.95rem; }
 .day-task-row { display: grid; grid-template-columns: 1fr 5.5rem 5.5rem auto; gap: 0.4rem; margin-bottom: 0.4rem; }
 .day-task-row input {
@@ -117,4 +129,4 @@ select.status {
   border-radius: 0.4rem; padding: 0.4rem; font-size: 0.8rem; min-width: 0;
 }
 .day-task-row button { border: none; background: transparent; color: var(--accent); font-weight: 700; }
-.add-task-btn { background: var(--surface-2); border: none; color: var(--text); border-radius: 0.4rem; padding: 0.4rem 0.6rem; font-size: 0.8rem; }
+.add-task-btn { background: var(--pink-soft); border: 1px solid var(--pink); color: var(--pink); border-radius: 0.4rem; padding: 0.4rem 0.6rem; font-size: 0.8rem; font-weight: 600; }
