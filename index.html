@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Deadline</title>
+  <meta name="theme-color" content="#0f172a" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+  <link rel="icon" href="icons/favicon-32.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Deadline" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">!</span>
+      <span class="brand-name">Deadline</span>
+    </div>
+    <div class="streak" id="streak-badge" title="Consecutive full days completed">— streak</div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-tab="today">Today</button>
+    <button class="tab" data-tab="jobs">Jobs</button>
+    <button class="tab" data-tab="schedule">Edit Schedule</button>
+  </nav>
+
+  <main>
+    <section id="tab-today" class="tab-panel active">
+      <button id="enable-push" class="cta">Enable notifications</button>
+      <ul id="task-list" class="task-list"></ul>
+      <p id="task-empty" class="empty" hidden>Nothing scheduled today. Rest up.</p>
+    </section>
+
+    <section id="tab-jobs" class="tab-panel">
+      <div class="jobs-controls">
+        <label class="checkbox">
+          <input type="checkbox" id="filter-not-applied" checked />
+          Show only not-yet-applied
+        </label>
+        <span id="jobs-updated" class="jobs-updated"></span>
+      </div>
+      <div class="table-wrap">
+        <table id="jobs-table">
+          <thead>
+            <tr>
+              <th data-sort="company">Company</th>
+              <th data-sort="position">Position</th>
+              <th data-sort="location">Location</th>
+              <th data-sort="salary">Salary</th>
+              <th data-sort="age">Age</th>
+              <th data-sort="status">Status</th>
+            </tr>
+          </thead>
+          <tbody id="jobs-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="tab-schedule" class="tab-panel">
+      <p class="hint">
+        Editing here saves a new schedule profile (active from today) straight to your data store —
+        no redeploy needed. GitHub Actions picks it up on its next run.
+      </p>
+      <div id="schedule-editor"></div>
+      <button id="schedule-save" class="cta">Save schedule</button>
+      <p id="schedule-save-status" class="hint"></p>
+    </section>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

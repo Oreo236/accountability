@@ -1,0 +1,13 @@
+{
+  "name": "deadline-pwa",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate-vapid": "web-push generate-vapid-keys",
+    "notify": "node scripts/notify.js",
+    "fetch-listings": "node scripts/fetch-listings.js"
+  },
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}

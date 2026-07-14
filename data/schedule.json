@@ -1,0 +1,40 @@
+{
+  "profiles": [
+    {
+      "name": "summer",
+      "activeFrom": "2026-07-13",
+      "timezone": "America/New_York",
+      "days": {
+        "0": [
+          { "id": "sun-gym", "label": "Gym", "start": "18:15", "end": "19:00" },
+          { "id": "sun-leetcode", "label": "LeetCode (1 problem)", "start": "19:15", "end": "19:45" },
+          { "id": "sun-algo", "label": "Algorithms course prep", "start": "20:00", "end": "21:00" }
+        ],
+        "1": [
+          { "id": "mon-leetcode", "label": "LeetCode (1 problem)", "start": "18:15", "end": "18:45" },
+          { "id": "mon-gym", "label": "Gym", "start": "21:15", "end": "22:00" }
+        ],
+        "2": [
+          { "id": "tue-gym", "label": "Gym", "start": "18:15", "end": "19:00" },
+          { "id": "tue-leetcode", "label": "LeetCode (1 problem)", "start": "19:15", "end": "19:45" }
+        ],
+        "3": [
+          { "id": "wed-leetcode-algo", "label": "LeetCode + algorithms prep", "start": "22:00", "end": "23:00" }
+        ],
+        "4": [
+          { "id": "thu-gym", "label": "Gym", "start": "18:15", "end": "19:00" },
+          { "id": "thu-deepwork", "label": "Deep work — system design / mock interview / algorithms prep", "start": "19:15", "end": "20:45" }
+        ],
+        "5": [
+          { "id": "fri-leetcode", "label": "LeetCode (1 problem)", "start": "18:15", "end": "18:45" },
+          { "id": "fri-algo", "label": "Algorithms course prep", "start": "20:15", "end": "21:15" }
+        ],
+        "6": [
+          { "id": "sat-deepwork", "label": "Deep work — LeetCode set + system design", "start": "11:00", "end": "13:00" },
+          { "id": "sat-algo", "label": "Algorithms course prep", "start": "13:30", "end": "15:00" },
+          { "id": "sat-gym", "label": "Gym", "start": "16:00", "end": "17:00" }
+        ]
+      }
+    }
+  ]
+}

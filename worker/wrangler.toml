@@ -1,0 +1,12 @@
+name = "deadline-api"
+main = "index.js"
+compatibility_date = "2024-11-01"
+
+# Set to your GitHub Pages origin, e.g. "https://oreo236.github.io"
+# (no trailing slash, no path).
+[vars]
+ALLOWED_ORIGIN = "https://oreo236.github.io"
+
+# Secrets (set via `wrangler secret put NAME`, not stored here):
+#   UPSTASH_REDIS_REST_URL
+#   UPSTASH_REDIS_REST_TOKEN
