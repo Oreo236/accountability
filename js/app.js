@@ -51,6 +51,7 @@ function elapsedLabel(task, nowMinutes, status) {
 }
 
 let currentDateStr = null;
+let currentTimezone = null;
 
 async function loadToday() {
   const { profiles } = await api.getSchedule();
@@ -61,12 +62,24 @@ async function loadToday() {
   const { dateStr, weekday, minutes } = zonedNow(profile.timezone);
   profile = pickActiveProfile(profiles, dateStr) ?? profile;
   currentDateStr = dateStr;
+  currentTimezone = profile.timezone;
 
   const tasks = tasksForWeekday(profile, weekday);
   const doneResp = tasks.length ? await api.getDone(dateStr) : { doneTaskIds: [] };
   const doneSet = new Set(doneResp.doneTaskIds ?? []);
 
   renderTasks(profile, tasks, doneSet, minutes);
+}
+
+function tickClock() {
+  const el = document.getElementById('clock');
+  el.textContent = new Intl.DateTimeFormat('en-US', {
+    timeZone: currentTimezone || undefined,
+    hour: 'numeric',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: true,
+  }).format(new Date());
 }
 
 function renderTasks(profile, tasks, doneSet, nowMinutes) {
@@ -117,6 +130,8 @@ async function refreshAll() {
 
 refreshAll();
 setInterval(refreshAll, REFRESH_MS);
+tickClock();
+setInterval(tickClock, 1000);
 
 initJobsTab();
 initScheduleEditor();
