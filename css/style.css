@@ -141,3 +141,5 @@ select.status:focus, input:focus { outline: 2px solid var(--pink); outline-offse
 }
 .day-task-row button { border: none; background: transparent; color: var(--accent); font-weight: 700; }
 .add-task-btn { background: var(--pink-soft); border: 1px solid var(--pink); color: var(--pink); border-radius: 0.4rem; padding: 0.4rem 0.6rem; font-size: 0.8rem; font-weight: 600; }
+
+/* trigger: verifying auto-version-bump workflow */
