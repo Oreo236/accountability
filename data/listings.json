@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-26T12:53:28.023Z",
+  "updatedAt": "2026-07-26T18:52:29.860Z",
   "listings": [
     {
       "company": "Amazon",
       "position": "EFA Network Software Engineer I - Annapurna Labs",
       "location": "Seattle, WA",
       "salary": "$186k/yr",
-      "age": "2d",
+      "age": "3d",
       "url": "https://www.amazon.jobs/jobs/10481932/apply",
       "category": "FAANG+"
     },
@@ -15,7 +15,7 @@
       "position": "AI and ML Infra Software Engineer - GPU Clusters - New College Grad 2026",
       "location": "Santa Clara, CA +1",
       "salary": "$172k/yr",
-      "age": "2d",
+      "age": "3d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
       "category": "FAANG+"
     },
@@ -24,7 +24,7 @@
       "position": "Developer Technology Engineer - AI - New College Grad 2026",
       "location": "Santa Clara, CA +5",
       "salary": "$172k/yr",
-      "age": "2d",
+      "age": "3d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1",
       "category": "FAANG+"
     },
@@ -33,7 +33,7 @@
       "position": "Software Engineer - Physical Design Infrastructure - New College Grad 2026",
       "location": "Santa Clara, CA",
       "salary": "$172k/yr",
-      "age": "2d",
+      "age": "3d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
       "category": "FAANG+"
     },
@@ -42,7 +42,7 @@
       "position": "Deep Learning Software Engineer - Inference - New College Grad 2026",
       "location": "Remote - California, USA +4",
       "salary": "$172k/yr",
-      "age": "3d",
+      "age": "4d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742",
       "category": "FAANG+"
     },
@@ -51,7 +51,7 @@
       "position": "Developer Technology Engineer - Public Sector - New College Grad 2026",
       "location": "Santa Clara, CA",
       "salary": "$172k/yr",
-      "age": "3d",
+      "age": "4d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "category": "FAANG+"
     },
@@ -60,7 +60,7 @@
       "position": "Technical Program Manager I - Capacity Planning - Google Cloud",
       "location": "Sunnyvale, CA",
       "salary": "$216k/yr",
-      "age": "5d",
+      "age": "6d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/113074906505061062",
       "category": "FAANG+"
     },
@@ -69,7 +69,7 @@
       "position": "Deep Learning Software Engineer - TensorRT Performance - New College Grad 2026",
       "location": "Remote - Santa Clara, CA",
       "salary": "$172k/yr",
-      "age": "5d",
+      "age": "6d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
       "category": "FAANG+"
     },
@@ -78,7 +78,7 @@
       "position": "Systems Software Engineer - Accelerated Kubernetes Performance and Scale - New College Grad 2026",
       "location": "Santa Clara, CA +1",
       "salary": "$172k/yr",
-      "age": "8d",
+      "age": "9d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
       "category": "FAANG+"
     },
@@ -87,7 +87,7 @@
       "position": "Software Engineer I - Discovery",
       "location": "San Francisco, CA",
       "salary": "$193k/yr",
-      "age": "10d",
+      "age": "11d",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
       "category": "FAANG+"
     },
@@ -96,7 +96,7 @@
       "position": "System Software Engineer - Dynamo-Triton Inference Server - New College Grad 2026",
       "location": "Remote - Santa Clara, CA",
       "salary": "$172k/yr",
-      "age": "12d",
+      "age": "13d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
       "category": "FAANG+"
     },
@@ -105,7 +105,7 @@
       "position": "Backend Compiler Engineer - New College Grad 2026",
       "location": "Santa Clara, CA",
       "salary": "$172k/yr",
-      "age": "12d",
+      "age": "13d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
       "category": "FAANG+"
     },
@@ -114,7 +114,7 @@
       "position": "Technical Program Manager I - Fiber Infrastructure - Google Cloud",
       "location": "Thornton, CO +2",
       "salary": "$216k/yr",
-      "age": "15d",
+      "age": "16d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/84681509071397574",
       "category": "FAANG+"
     },
@@ -123,7 +123,7 @@
       "position": "Software I&T Engineer - Amazon Leo for Government",
       "location": "Northridge, CA",
       "salary": "$186k/yr",
-      "age": "16d",
+      "age": "17d",
       "url": "https://www.amazon.jobs/jobs/10469950/apply",
       "category": "FAANG+"
     },
@@ -132,7 +132,7 @@
       "position": "Software I&T Engineer - Amazon Leo for Government",
       "location": "Northridge, CA",
       "salary": "$186k/yr",
-      "age": "16d",
+      "age": "17d",
       "url": "https://www.amazon.jobs/jobs/10469381/apply",
       "category": "FAANG+"
     },
@@ -141,7 +141,7 @@
       "position": "Software Engineer I - Discovery",
       "location": "San Francisco, CA",
       "salary": "$186k/yr",
-      "age": "17d",
+      "age": "18d",
       "url": "https://www.amazon.jobs/jobs/10468973/apply",
       "category": "FAANG+"
     },
@@ -150,7 +150,7 @@
       "position": "Software Development Engineer I - ML Infra Services - Annapurna Labs",
       "location": "Seattle, WA",
       "salary": "$186k/yr",
-      "age": "23d",
+      "age": "24d",
       "url": "https://www.amazon.jobs/jobs/10464043/apply",
       "category": "FAANG+"
     },
@@ -159,7 +159,7 @@
       "position": "Software Development Engineer I - ML Infra Services - Annapurna Labs",
       "location": "Cupertino, CA",
       "salary": "$186k/yr",
-      "age": "23d",
+      "age": "24d",
       "url": "https://www.amazon.jobs/jobs/10464055/apply",
       "category": "FAANG+"
     },
@@ -168,7 +168,7 @@
       "position": "Software Development Engineer I - ML Infra Services - Annapurna Labs",
       "location": "Seattle, WA",
       "salary": "$186k/yr",
-      "age": "23d",
+      "age": "24d",
       "url": "https://www.amazon.jobs/jobs/10464040/apply",
       "category": "FAANG+"
     },
@@ -177,7 +177,7 @@
       "position": "Software Engineer - Memberships I",
       "location": "San Francisco, CA",
       "salary": "$193k/yr",
-      "age": "28d",
+      "age": "29d",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8605153002",
       "category": "FAANG+"
     },
@@ -186,7 +186,7 @@
       "position": "Software Engineer - Memberships I",
       "location": "San Francisco, CA +1",
       "salary": "$193k/yr",
-      "age": "28d",
+      "age": "29d",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8610471002",
       "category": "FAANG+"
     },
@@ -195,7 +195,7 @@
       "position": "Software Engineering AMTS - College Grad",
       "location": "California, USA +7",
       "salary": "$176k/yr",
-      "age": "39d",
+      "age": "40d",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
       "category": "FAANG+"
     },
@@ -204,7 +204,7 @@
       "position": "Software Engineering AMTS - College Grad",
       "location": "California, USA +7",
       "salary": "$176k/yr",
-      "age": "39d",
+      "age": "40d",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400",
       "category": "FAANG+"
     },
@@ -213,7 +213,7 @@
       "position": "Software Quality Assurance Engineer - 2026 New College Grad",
       "location": "Santa Clara, CA",
       "salary": "$172k/yr",
-      "age": "40d",
+      "age": "41d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1",
       "category": "FAANG+"
     },
@@ -222,7 +222,7 @@
       "position": "Software R&D Engineer - VLSI Physical Design - New College Grad 2026",
       "location": "Austin, TX",
       "salary": "$172k/yr",
-      "age": "51d",
+      "age": "52d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330",
       "category": "FAANG+"
     },
@@ -231,7 +231,7 @@
       "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
       "location": "Santa Clara, CA",
       "salary": "$172k/yr",
-      "age": "52d",
+      "age": "53d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
       "category": "FAANG+"
     },
@@ -240,7 +240,7 @@
       "position": "Software R&D Engineer - Digital Logic Synthesis - New College Grad 2026",
       "location": "Santa Clara, CA +1",
       "salary": "$172k/yr",
-      "age": "53d",
+      "age": "54d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263",
       "category": "FAANG+"
     },
@@ -249,7 +249,7 @@
       "position": "Software Engineer - TensorRT Specialized Platforms - New College Grad 2025",
       "location": "Santa Clara, CA",
       "salary": "$172k/yr",
-      "age": "57d",
+      "age": "58d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
       "category": "FAANG+"
     },
@@ -258,7 +258,7 @@
       "position": "Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS",
       "location": "Cupertino, CA",
       "salary": "$153k/yr",
-      "age": "58d",
+      "age": "59d",
       "url": "https://jobs.apple.com/en-us/details/200665472-0836",
       "category": "FAANG+"
     },
@@ -267,7 +267,7 @@
       "position": "Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS",
       "location": "Cupertino, CA",
       "salary": "$153k/yr",
-      "age": "58d",
+      "age": "59d",
       "url": "https://jobs.apple.com/en-us/details/200665480-0836",
       "category": "FAANG+"
     },
@@ -276,7 +276,7 @@
       "position": "Software Device Driver Engineer - Core I/O - Core OS",
       "location": "Austin, TX",
       "salary": "$153k/yr",
-      "age": "58d",
+      "age": "59d",
       "url": "https://jobs.apple.com/en-us/details/200658892-0157",
       "category": "FAANG+"
     },
@@ -285,7 +285,7 @@
       "position": "Software Development Engineer - AWS Data Services - 2026 - US",
       "location": "Seattle, WA",
       "salary": "$186k/yr",
-      "age": "79d",
+      "age": "80d",
       "url": "https://www.amazon.jobs/jobs/10414316/apply",
       "category": "FAANG+"
     },
@@ -294,7 +294,7 @@
       "position": "Software Device Driver Engineer - Core I/O - Core OS",
       "location": "Cupertino, CA",
       "salary": "$153k/yr",
-      "age": "88d",
+      "age": "89d",
       "url": "https://jobs.apple.com/en-us/details/200660074-0836",
       "category": "FAANG+"
     },
@@ -303,7 +303,7 @@
       "position": "Software Engineer I - Ad Supply",
       "location": "San Francisco, CA",
       "salary": "$186k/yr",
-      "age": "95d",
+      "age": "96d",
       "url": "https://www.amazon.jobs/jobs/10403353/apply",
       "category": "FAANG+"
     },
@@ -312,7 +312,7 @@
       "position": "Software Engineer - University Graduate - US",
       "location": "Houston, TX +2",
       "salary": "$338k/yr",
-      "age": "10d",
+      "age": "11d",
       "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
       "category": "Quant"
     },
@@ -321,7 +321,7 @@
       "position": "Software Engineer - University Graduate - US",
       "location": "Miami, FL +1",
       "salary": "$338k/yr",
-      "age": "10d",
+      "age": "11d",
       "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
       "category": "Quant"
     },
@@ -330,7 +330,7 @@
       "position": "Campus Full Time 2027 - Software Developer",
       "location": "New York City, NY",
       "salary": "$381k/yr",
-      "age": "10d",
+      "age": "11d",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
       "category": "Quant"
     },
@@ -339,7 +339,7 @@
       "position": "Software Engineer - Entry-Level - C++",
       "location": "Chicago, IL",
       "salary": "$191k/yr",
-      "age": "11d",
+      "age": "12d",
       "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
       "category": "Quant"
     },
@@ -348,7 +348,7 @@
       "position": "Junior Quantitative Developer & Strategist",
       "location": "Chicago, IL",
       "salary": "$191k/yr",
-      "age": "11d",
+      "age": "12d",
       "url": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
       "category": "Quant"
     },
@@ -357,7 +357,7 @@
       "position": "Software Engineer - Entry-Level - Python",
       "location": "Chicago, IL",
       "salary": "$191k/yr",
-      "age": "11d",
+      "age": "12d",
       "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
       "category": "Quant"
     },
@@ -366,7 +366,7 @@
       "position": "Software Engineer - C++ or Python - 2027 Grads",
       "location": "London, United Kingdom +4",
       "salary": "$412k/yr",
-      "age": "11d",
+      "age": "12d",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
       "category": "Quant"
     },
@@ -375,7 +375,7 @@
       "position": "Algorithm Developer - Quant Research & Trading - 2027 PhDs",
       "location": "London, United Kingdom +2",
       "salary": "$412k/yr",
-      "age": "11d",
+      "age": "12d",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845",
       "category": "Quant"
     },
@@ -384,7 +384,7 @@
       "position": "Algorithm Developer - Quant Research & Trading - 2027 Grads",
       "location": "London, United Kingdom +2",
       "salary": "$412k/yr",
-      "age": "11d",
+      "age": "12d",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
       "category": "Quant"
     },
@@ -393,7 +393,7 @@
       "position": "Software Engineer Full-Time: New Grad",
       "location": "New York City, NY",
       "salary": "$398k/yr",
-      "age": "18d",
+      "age": "19d",
       "url": "https://www.janestreet.com/join-jane-street/position/8594541002",
       "category": "Quant"
     },
@@ -402,7 +402,7 @@
       "position": "Graduate Software Engineer - 2027 Start",
       "location": "Chicago, IL",
       "salary": "$201k/yr",
-      "age": "23d",
+      "age": "24d",
       "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
       "category": "Quant"
     },
@@ -411,16 +411,34 @@
       "position": "Graduate Software Engineer - 2027 Start",
       "location": "Chicago, IL +1",
       "salary": "$201k/yr",
-      "age": "23d",
+      "age": "24d",
       "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
       "category": "Quant"
+    },
+    {
+      "company": "Iridium Satellite Communications",
+      "position": "Engineer I - Software Engineer",
+      "location": "Reston, VA +1",
+      "salary": null,
+      "age": "0d",
+      "url": "https://careers-iridium.icims.com/jobs/5047/engineer-i%2c-software-engineer/job",
+      "category": "Other"
+    },
+    {
+      "company": "Vanderbilt University Medical Center",
+      "position": "C# / Angular Associate Application Developer - Local / Hybrid",
+      "location": "Nashville, TN",
+      "salary": null,
+      "age": "0d",
+      "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/C----Angular-Associate-Application-Developer--Local---Hybrid-_R-63031-1",
+      "category": "Other"
     },
     {
       "company": "Blissway",
       "position": "Embedded Systems Engineer - Recent Graduate",
       "location": "Denver, CO",
       "salary": null,
-      "age": "0d",
+      "age": "1d",
       "url": "https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8",
       "category": "Other"
     },
@@ -429,7 +447,7 @@
       "position": "Associate Wireless Software Engineer",
       "location": "Atlanta, GA",
       "salary": null,
-      "age": "0d",
+      "age": "1d",
       "url": "https://jobs.ashbyhq.com/flock%20safety/b50cadaf-7eb1-4237-8e37-a1f6a1a359ee",
       "category": "Other"
     },
@@ -438,7 +456,7 @@
       "position": "Software Engineer 1 - DSP Runtime",
       "location": "New York City, NY +1",
       "salary": null,
-      "age": "0d",
+      "age": "1d",
       "url": "https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32",
       "category": "Other"
     },
@@ -447,7 +465,7 @@
       "position": "Firmware Engineer I-II",
       "location": "Los Angeles, CA",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://jobs.ashbyhq.com/antares/11da51b3-7969-4549-a32f-21d8b699e216",
       "category": "Other"
     },
@@ -456,8 +474,26 @@
       "position": "Software Engineer - 2027 Graduates",
       "location": "McLean, VA",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://job-boards.greenhouse.io/appian/jobs/8041241",
+      "category": "Other"
+    },
+    {
+      "company": "Cracker Barrel",
+      "position": "Associate Front End Developer",
+      "location": "Remote - Tennessee, USA",
+      "salary": null,
+      "age": "2d",
+      "url": "https://cbrlgroup.wd503.myworkdayjobs.com/en-US/crackerbarrelexternal/job/Remote-Tennessee/Associate-Front-End-Developer_JR19925",
+      "category": "Other"
+    },
+    {
+      "company": "Family Health Centers of San Diego",
+      "position": "QA Software Engineer I",
+      "location": "San Diego, CA",
+      "salary": null,
+      "age": "2d",
+      "url": "https://fhcsd.wd1.myworkdayjobs.com/en-US/main/job/HITEC-Center---San-Diego-CA/QA-Software-Engineer-I_R0022801",
       "category": "Other"
     },
     {
@@ -465,7 +501,7 @@
       "position": "Associate Cloud & DevOps Engineer",
       "location": "North Little Rock, AR",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://firstorion.wd1.myworkdayjobs.com/en-US/first_orion/job/North-Little-Rock-AR/Associate-Cloud---DevOps-Engineer_R734",
       "category": "Other"
     },
@@ -474,8 +510,17 @@
       "position": "UI Frontend Engineer - Associate",
       "location": "New York City, NY",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645574002",
+      "category": "Other"
+    },
+    {
+      "company": "Medtronic",
+      "position": "Software Test Engineer I - Digital Health - Acute Care and Monitoring",
+      "location": "Mounds View, MN",
+      "salary": null,
+      "age": "2d",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I---Digital-Health--Acute-Care-and-Monitoring-_R69619-1",
       "category": "Other"
     },
     {
@@ -483,7 +528,16 @@
       "position": "Software Engineer I - AI-Driven Data Solutions - Lafayette - CO",
       "location": "Lafayette, CO",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1",
+      "category": "Other"
+    },
+    {
+      "company": "Medtronic",
+      "position": "Software Engineer I - AI-Driven Data Solutions - Lafayette - CO",
+      "location": "Lafayette, CO",
+      "salary": null,
+      "age": "2d",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435",
       "category": "Other"
     },
@@ -492,8 +546,17 @@
       "position": "Software Test Engineer I - Digital Health - Acute Care and Monitoring",
       "location": "Mounds View, MN",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I---Digital-Health--Acute-Care-and-Monitoring-_R69619",
+      "category": "Other"
+    },
+    {
+      "company": "Northrop Grumman",
+      "position": "Associate Embedded Software Engineer / Embedded Software Engineer",
+      "location": "Melbourne, FL",
+      "salary": null,
+      "age": "2d",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Embedded-Software-Engineer---Embedded-Software-Engineer_R10241869",
       "category": "Other"
     },
     {
@@ -501,7 +564,7 @@
       "position": "Junior Embedded Software Engineer",
       "location": "Los Angeles, CA",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://jobs.ashbyhq.com/observable-space/97e8073f-a23e-4360-ba9c-a3869ad58ab1",
       "category": "Other"
     },
@@ -510,8 +573,17 @@
       "position": "Junior Software Engineer - AI-Native",
       "location": "Seattle, WA",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005",
+      "category": "Other"
+    },
+    {
+      "company": "Radiance Technologies",
+      "position": "Junior Software Engineer",
+      "location": "Stennis Space Center, MS",
+      "salary": null,
+      "age": "2d",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR102316",
       "category": "Other"
     },
     {
@@ -519,17 +591,17 @@
       "position": "Software Engineer I - Test Solutions - Onsite",
       "location": "Tucson, AZ",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492",
       "category": "Other"
     },
     {
-      "company": "Teladoc Health",
-      "position": "Associate - Full Stack Developer - Debug & Development",
-      "location": "Remote - USA",
+      "company": "Simpson Strong-Tie",
+      "position": "Associate Software Engineer — Cloud Services & API Platform - C#/Azure track",
+      "location": "Plano, TX",
       "salary": null,
-      "age": "1d",
-      "url": "https://teladoc.wd503.myworkdayjobs.com/en-US/teladochealth_is_hiring/job/USA---Any-Location-Remote/Associate--Full-Stack-Developer--Debug---Development_JR20921",
+      "age": "2d",
+      "url": "https://strongtie.wd1.myworkdayjobs.com/en-US/external/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829",
       "category": "Other"
     },
     {
@@ -537,7 +609,7 @@
       "position": "Software Engineer I - Workday - Report Writer - EIB",
       "location": "Saint Paul, MN +4",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://travelers.wd5.myworkdayjobs.com/en-US/external/job/MN---St-Paul/Software-Engineer-I--Workday----Report-Writer--EIB_R-51637",
       "category": "Other"
     },
@@ -546,8 +618,17 @@
       "position": "Full Stack AI Software Engineer I",
       "location": "Boston, MA",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "http://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I",
+      "category": "Other"
+    },
+    {
+      "company": "Volaris Group",
+      "position": "Software Developer I - Analyst",
+      "location": "Worcester, MA",
+      "salary": null,
+      "age": "2d",
+      "url": "https://volarisgroup.wd3.myworkdayjobs.com/en-US/volaris/job/United-States---Worcester-MA/Software-Developer-I--Analyst-_R70138-1",
       "category": "Other"
     },
     {
@@ -555,7 +636,7 @@
       "position": "STSY - Azure Cloud Administrator I",
       "location": "Huntsville, AL",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://calistacorp.wd1.myworkdayjobs.com/en-US/yulista/job/Huntsville-AL/STSY---Azure-Cloud-Administrator-I_JR109459",
       "category": "Other"
     },
@@ -564,7 +645,7 @@
       "position": "Software Engineer I - AI Generalist",
       "location": "Austin, TX",
       "salary": null,
-      "age": "1d",
+      "age": "2d",
       "url": "https://jobs.ashbyhq.com/zello/66de7a50-17cb-42aa-87eb-cd40c637338e",
       "category": "Other"
     },
@@ -573,17 +654,8 @@
       "position": "Software Developer I for Information Services",
       "location": "Remote",
       "salary": null,
-      "age": "2d",
+      "age": "3d",
       "url": "https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Remote-Location/Software-Developer-I-for-Information-Services_R0011992-1",
-      "category": "Other"
-    },
-    {
-      "company": "LMI Innovation",
-      "position": "Junior Back-End Software Application Developer",
-      "location": "Colorado Springs, CO",
-      "salary": null,
-      "age": "2d",
-      "url": "https://careers-lmi.icims.com/jobs/14309/junior-back-end-software-application-developer/job",
       "category": "Other"
     },
     {
@@ -591,7 +663,7 @@
       "position": "Software Engineer I",
       "location": "O'Fallon, MO",
       "salary": null,
-      "age": "2d",
+      "age": "3d",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435",
       "category": "Other"
     },
@@ -600,26 +672,8 @@
       "position": "Software Engineer I",
       "location": "O'Fallon, MO",
       "salary": null,
-      "age": "2d",
+      "age": "3d",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431",
-      "category": "Other"
-    },
-    {
-      "company": "Northrop Grumman",
-      "position": "2026 Associate Cyber Software Engineer - Chantilly VA",
-      "location": "Chantilly, VA",
-      "salary": null,
-      "age": "2d",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Chantilly/R10206390-22026-Associate-Cyber-Software-Engineer---Chantilly-VA_R10236425",
-      "category": "Other"
-    },
-    {
-      "company": "Northrop Grumman",
-      "position": "Associate Software Engineer / Software Engineer",
-      "location": "Melbourne, FL",
-      "salary": null,
-      "age": "2d",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10239254",
       "category": "Other"
     },
     {
@@ -627,17 +681,17 @@
       "position": "2027 Associate Software Quality Engineer/Software Quality Engineer - Melbourne FL",
       "location": "Melbourne, FL",
       "salary": null,
-      "age": "2d",
+      "age": "3d",
       "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Quality-Engineer-Software-Quality-Engineer----Melbourne-FL_R10236943",
       "category": "Other"
     },
     {
-      "company": "Raytheon",
-      "position": "2026 Raytheon Full Time- Software Engineer I -- Onsite",
-      "location": "Tewksbury, MA",
+      "company": "Northrop Grumman",
+      "position": "Associate Software Engineer / Software Engineer",
+      "location": "Melbourne, FL",
       "salary": null,
-      "age": "2d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434",
+      "age": "3d",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10239254",
       "category": "Other"
     },
     {
@@ -645,17 +699,8 @@
       "position": "Software Engineer I - Onsite",
       "location": "Tewksbury, MA",
       "salary": null,
-      "age": "2d",
+      "age": "3d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01861526",
-      "category": "Other"
-    },
-    {
-      "company": "Raytheon",
-      "position": "Software Engineer I - Onsite",
-      "location": "Marlborough, MA",
-      "salary": null,
-      "age": "2d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
       "category": "Other"
     },
     {
@@ -663,8 +708,26 @@
       "position": "Software Engineer I - Onsite",
       "location": "Cedar Rapids, IA",
       "salary": null,
-      "age": "2d",
+      "age": "3d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196",
+      "category": "Other"
+    },
+    {
+      "company": "Raytheon",
+      "position": "Software Engineer I - Onsite",
+      "location": "Cedar Rapids, IA",
+      "salary": null,
+      "age": "3d",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01834725",
+      "category": "Other"
+    },
+    {
+      "company": "Raytheon",
+      "position": "2026 Raytheon Full Time- Software Engineer I -- Onsite",
+      "location": "Tewksbury, MA",
+      "salary": null,
+      "age": "3d",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434",
       "category": "Other"
     },
     {
@@ -672,17 +735,8 @@
       "position": "Software Engineer I/II",
       "location": "Pasadena, CA",
       "salary": null,
-      "age": "2d",
+      "age": "3d",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7813360003",
-      "category": "Other"
-    },
-    {
-      "company": "T. Rowe Price",
-      "position": "2027 Global Technology - Associate Software Engineer",
-      "location": "Baltimore, MD +1",
-      "salary": null,
-      "age": "2d",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/troweprice/job/Baltimore-MD/XMLNAME-2027-Global-Technology---Associate-Software-Engineer_82752",
       "category": "Other"
     },
     {
@@ -690,7 +744,7 @@
       "position": "Junior C++ Software Engineer- 2 Days Onsite - Reston - VA- FreeWheel",
       "location": "Reston, VA",
       "salary": null,
-      "age": "2d",
+      "age": "3d",
       "url": "https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Junior-C---Software-Engineer--2-Days-Onsite---Reston--VA--FreeWheel_R441732",
       "category": "Other"
     },
@@ -699,7 +753,7 @@
       "position": "Associate Software Engineer II",
       "location": "Remote - Chattanooga, TN",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-II_R-50763",
       "category": "Other"
     },
@@ -708,7 +762,7 @@
       "position": "Software Engineer - Junior",
       "location": "Albuquerque, NM",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700",
       "category": "Other"
     },
@@ -717,7 +771,7 @@
       "position": "Software Support Specialist I",
       "location": "Richardson, TX",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Richardson/Software-Support-Specialist-I_JR109993",
       "category": "Other"
     },
@@ -726,7 +780,7 @@
       "position": "Software Support Specialist I",
       "location": "Richardson, TX",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Richardson/Software-Support-Specialist-I_JR109986",
       "category": "Other"
     },
@@ -735,7 +789,7 @@
       "position": "Software Engineer 1",
       "location": "USA",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1",
       "category": "Other"
     },
@@ -744,7 +798,7 @@
       "position": "Site Reliability Engineer I",
       "location": "Tempe, AZ",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://tsys.wd1.myworkdayjobs.com/en-US/tsys/job/TEMPE-ARIZONA/Site-Reliability-Engineer-I_R0072593",
       "category": "Other"
     },
@@ -753,7 +807,7 @@
       "position": "Software Development Graduate Roles",
       "location": "Spring, TX +3",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699",
       "category": "Other"
     },
@@ -762,7 +816,7 @@
       "position": "Rates Algo Developer - Associate",
       "location": "New York City, NY",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/New-York-New-York-United-States-of-America/Rates-Algo-Developer--Associate_R-0000181579",
       "category": "Other"
     },
@@ -771,7 +825,7 @@
       "position": "Case Manager I - Job Developer",
       "location": "Woonsocket, RI",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://careers-sevenhills.icims.com/jobs/36403/case-manager-i---job-developer/job",
       "category": "Other"
     },
@@ -780,17 +834,8 @@
       "position": "Junior DevOps Engineer",
       "location": "Springfield, VA +1",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://careers-teknoluxion.icims.com/jobs/3132/junior-devops-engineer/job",
-      "category": "Other"
-    },
-    {
-      "company": "U.S. Bank",
-      "position": "Software Engineer I - Mainframe - Cobol",
-      "location": "Brookfield, WI +4",
-      "salary": null,
-      "age": "3d",
-      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/us_bank_careers/job/Brookfield-WI/Software-Engineer-I---Mainframe--Cobol-_2026-0018566",
       "category": "Other"
     },
     {
@@ -798,17 +843,17 @@
       "position": "Software Engineer 1 - React + API + Cloud Migration",
       "location": "Irving, TX +1",
       "salary": null,
-      "age": "3d",
+      "age": "4d",
       "url": "https://usbank.wd1.myworkdayjobs.com/en-US/us_bank_careers/job/Irving-TX/Software-Engineer-1--React---API---Cloud-Migration-_2026-0021655",
       "category": "Other"
     },
     {
-      "company": "BECU",
-      "position": "Associate Software Developer",
-      "location": "Remote",
+      "company": "U.S. Bank",
+      "position": "Software Engineer I - Mainframe - Cobol",
+      "location": "Brookfield, WI +4",
       "salary": null,
       "age": "4d",
-      "url": "https://becu.wd1.myworkdayjobs.com/en-US/external/job/Remote-WA/Associate-Software-Developer_R-13619",
+      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/us_bank_careers/job/Brookfield-WI/Software-Engineer-I---Mainframe--Cobol-_2026-0018566",
       "category": "Other"
     },
     {
@@ -816,7 +861,7 @@
       "position": "Advanced Information Technologist - Associate Cloud Engineer",
       "location": "Hazelwood, MO",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282-1",
       "category": "Other"
     },
@@ -825,7 +870,7 @@
       "position": "Advanced Information Technologist - Associate Cloud Engineer",
       "location": "Hazelwood, MO",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282",
       "category": "Other"
     },
@@ -834,7 +879,7 @@
       "position": "Quantitative Developer - Associate - FX",
       "location": "New York City, NY",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quantitative-Developer--Associate---FX_R10839",
       "category": "Other"
     },
@@ -843,7 +888,7 @@
       "position": "Junior Quant Developer",
       "location": "New York City, NY",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/primary-external-1/job/New-York-New-York-United-States-of-America/Junior-Quant-Developer_868307-1",
       "category": "Other"
     },
@@ -852,17 +897,8 @@
       "position": "Software Engineer - Autonomous Vehicles Software Systems - Early Career",
       "location": "Sunnyvale, CA +1",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759",
-      "category": "Other"
-    },
-    {
-      "company": "Mastercard",
-      "position": "Software Engineer I",
-      "location": "O'Fallon, MO",
-      "salary": null,
-      "age": "4d",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-278868",
       "category": "Other"
     },
     {
@@ -870,8 +906,17 @@
       "position": "Site Reliability Engineer I",
       "location": "O'Fallon, MO",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/contractorconversion/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-284371",
+      "category": "Other"
+    },
+    {
+      "company": "Mastercard",
+      "position": "Software Engineer I",
+      "location": "O'Fallon, MO",
+      "salary": null,
+      "age": "5d",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-278868",
       "category": "Other"
     },
     {
@@ -879,7 +924,7 @@
       "position": "Electrical Engineer I - Embedded Systems - Sensing & IoT",
       "location": "Brookfield, WI",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://tti.wd1.myworkdayjobs.com/en-US/milwaukee/job/Brookfield-WI/Electrical-Engineer-I---Embedded-Systems--Sensing---IoT_R75681",
       "category": "Other"
     },
@@ -888,17 +933,8 @@
       "position": "Associate Developer",
       "location": "Orlando, FL",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer_R-4216",
-      "category": "Other"
-    },
-    {
-      "company": "PMG",
-      "position": "Graduate Leadership Program - AI & Software Engineering - June Start",
-      "location": "Dallas, TX",
-      "salary": null,
-      "age": "4d",
-      "url": "https://job-boards.greenhouse.io/pmg/jobs/8587038002",
       "category": "Other"
     },
     {
@@ -906,8 +942,17 @@
       "position": "Graduate Leadership Program - AI & Software Engineering - January Start",
       "location": "Dallas, TX",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://job-boards.greenhouse.io/pmg/jobs/8587050002",
+      "category": "Other"
+    },
+    {
+      "company": "PMG",
+      "position": "Graduate Leadership Program - AI & Software Engineering - June Start",
+      "location": "Dallas, TX",
+      "salary": null,
+      "age": "5d",
+      "url": "https://job-boards.greenhouse.io/pmg/jobs/8587038002",
       "category": "Other"
     },
     {
@@ -915,7 +960,7 @@
       "position": "Junior Software Engineer",
       "location": "Stennis Space Center, MS",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR102305",
       "category": "Other"
     },
@@ -924,7 +969,7 @@
       "position": "Software Developer I",
       "location": "Seattle, WA",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083",
       "category": "Other"
     },
@@ -933,7 +978,7 @@
       "position": "Software Engineer I",
       "location": "Bryan, TX",
       "salary": null,
-      "age": "4d",
+      "age": "5d",
       "url": "https://tamus.wd1.myworkdayjobs.com/en-US/tti_external/job/Bryan-TX/Software-Engineer-I_R-095393",
       "category": "Other"
     },
@@ -942,7 +987,7 @@
       "position": "Part-Time: Embedded Tutor I - Communication Media - Audio Production",
       "location": "Greeley, CO",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://aims.wd1.myworkdayjobs.com/en-US/jobs/job/Greeley-CO/Part-Time--Embedded-Tutor-I--Communication-Media--Audio-Production-_R1915-1",
       "category": "Other"
     },
@@ -951,7 +996,7 @@
       "position": "Junior Application Developer",
       "location": "Denver, CO +3",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Junior-Application-Developer_328917",
       "category": "Other"
     },
@@ -960,7 +1005,7 @@
       "position": "Junior Quantitative Developer",
       "location": "New York City, NY",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://job-boards.greenhouse.io/engelhart/jobs/8068980",
       "category": "Other"
     },
@@ -969,7 +1014,7 @@
       "position": "Junior Software Engineer 730",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007",
       "category": "Other"
     },
@@ -978,17 +1023,8 @@
       "position": "Associate Software Engineer",
       "location": "Audubon, PA",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1",
-      "category": "Other"
-    },
-    {
-      "company": "Northrop Grumman",
-      "position": "Associate Cloud Engineer/ Cloud Engineer",
-      "location": "Rome, NY",
-      "salary": null,
-      "age": "5d",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-New-York-Rome/Associate-Cloud-Engineer--Cloud-Engineer_R10241192",
       "category": "Other"
     },
     {
@@ -996,8 +1032,17 @@
       "position": "Associate Cloud Engineer/ Cloud Engineer",
       "location": "Wright-Patterson AFB, OH",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Ohio-Wright-Patterson-AFB/Associate-Cloud-Engineer--Cloud-Engineer_R10241188",
+      "category": "Other"
+    },
+    {
+      "company": "Northrop Grumman",
+      "position": "Associate Cloud Engineer/ Cloud Engineer",
+      "location": "Rome, NY",
+      "salary": null,
+      "age": "6d",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-New-York-Rome/Associate-Cloud-Engineer--Cloud-Engineer_R10241192",
       "category": "Other"
     },
     {
@@ -1005,7 +1050,7 @@
       "position": "Full Stack Web Application Developer - Junior Level",
       "location": "Fort Huachuca, AZ",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://careers-peraton.icims.com/jobs/168484/full-stack-web-application-developer---junior-level/job",
       "category": "Other"
     },
@@ -1014,7 +1059,7 @@
       "position": "Web Application Developer I",
       "location": "San Diego, CA",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://sharp.wd1.myworkdayjobs.com/en-US/external/job/San-Diego-CA/Web-Application-Developer-I_JR206399",
       "category": "Other"
     },
@@ -1023,7 +1068,7 @@
       "position": "Associate Software Engineer - Java",
       "location": "Charlotte, NC +1",
       "salary": null,
-      "age": "5d",
+      "age": "6d",
       "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Charlotte-NC/Associate-Software-Engineer---Java_R2626130",
       "category": "Other"
     },
@@ -1032,7 +1077,7 @@
       "position": "Associate Product Developer - Accessories",
       "location": "Commerce, CA",
       "salary": null,
-      "age": "7d",
+      "age": "8d",
       "url": "https://boards.greenhouse.io/aloyoga/jobs/6098225004?gh_jid=6098225004",
       "category": "Other"
     },
@@ -1041,8 +1086,8 @@
       "position": "Associate Software Engineer",
       "location": "Omaha, NE",
       "salary": null,
-      "age": "7d",
-      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990",
+      "age": "8d",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
       "category": "Other"
     },
     {
@@ -1050,8 +1095,8 @@
       "position": "Associate Software Engineer",
       "location": "Omaha, NE",
       "salary": null,
-      "age": "7d",
-      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
+      "age": "8d",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990",
       "category": "Other"
     },
     {
@@ -1059,7 +1104,7 @@
       "position": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise",
       "location": "Redlands, CA",
       "salary": null,
-      "age": "7d",
+      "age": "8d",
       "url": "https://www.esri.com/careers/5190253007?gh_jid=5190253007",
       "category": "Other"
     },
@@ -1068,7 +1113,7 @@
       "position": "Associate Developer - India",
       "location": "Remote",
       "salary": null,
-      "age": "7d",
+      "age": "8d",
       "url": "https://magnatech.io/technology-careers/?gh_jid=4716022005",
       "category": "Other"
     },
@@ -1077,7 +1122,7 @@
       "position": "Junior Software Engineer",
       "location": "Princeton, NJ",
       "salary": null,
-      "age": "7d",
+      "age": "8d",
       "url": "http://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer",
       "category": "Other"
     },
@@ -1086,17 +1131,8 @@
       "position": "Reactor Software Engineer I-II",
       "location": "Los Angeles, CA",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://jobs.ashbyhq.com/antares/78234003-fa70-41ab-b3c8-a2e703687f42",
-      "category": "Other"
-    },
-    {
-      "company": "Captivation Software",
-      "position": "Software Engineer 1 - Back-End/DevOps",
-      "location": "Annapolis Junction, MD",
-      "salary": null,
-      "age": "8d",
-      "url": "https://job-boards.greenhouse.io/captivation/jobs/5362324008",
       "category": "Other"
     },
     {
@@ -1104,8 +1140,17 @@
       "position": "Software Engineer 1/2 - Java/MapReduce/GhostMachine/Spring/NiFi",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://job-boards.greenhouse.io/captivation/jobs/5361924008",
+      "category": "Other"
+    },
+    {
+      "company": "Captivation Software",
+      "position": "Software Engineer 1 - Back-End/DevOps",
+      "location": "Annapolis Junction, MD",
+      "salary": null,
+      "age": "9d",
+      "url": "https://job-boards.greenhouse.io/captivation/jobs/5362324008",
       "category": "Other"
     },
     {
@@ -1113,7 +1158,7 @@
       "position": "Software Engineer 1 - AI/ML/Terraform/C++/AWS/GPU",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://job-boards.greenhouse.io/captivation/jobs/5362075008",
       "category": "Other"
     },
@@ -1122,7 +1167,7 @@
       "position": "Software Integration & Test Engineer I",
       "location": "San Diego, CA",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "http://innoflightinc.applytojob.com/apply/gghJvSnRN5/Software-Integration-Test-Engineer-I",
       "category": "Other"
     },
@@ -1131,7 +1176,7 @@
       "position": "Junior Software Engineer",
       "location": "Colorado Springs, CO",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608",
       "category": "Other"
     },
@@ -1140,7 +1185,7 @@
       "position": "Software Engineer I",
       "location": "WPE, MO",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://nidec.wd1.myworkdayjobs.com/en-US/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664",
       "category": "Other"
     },
@@ -1149,7 +1194,7 @@
       "position": "Software Engineer - Performance - New Grad",
       "location": "Mountain View, CA",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://nuro.ai/careersitem?gh_jid=6972272",
       "category": "Other"
     },
@@ -1158,7 +1203,7 @@
       "position": "Associate Cloud AI Engineer - TS/SCI clearance - Travel",
       "location": "Washington, DC +5",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://apply.workable.com/pgtek/j/DB958E1A45/",
       "category": "Other"
     },
@@ -1167,7 +1212,7 @@
       "position": "Software Engineer I",
       "location": "San Mateo, CA",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004",
       "category": "Other"
     },
@@ -1176,7 +1221,7 @@
       "position": "Junior Software Engineer",
       "location": "Huntsville, AL",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Huntsville-AL/Junior-Software-Engineer_HR102303",
       "category": "Other"
     },
@@ -1185,7 +1230,7 @@
       "position": "Junior Full Stack Developer",
       "location": "Remote - Washington, DC",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://revolutional.com/job-openings/?gh_jid=7807121003",
       "category": "Other"
     },
@@ -1194,7 +1239,7 @@
       "position": "Android Mobile Software Developer I",
       "location": "Seattle, WA +2",
       "salary": null,
-      "age": "8d",
+      "age": "9d",
       "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752",
       "category": "Other"
     },
@@ -1203,7 +1248,7 @@
       "position": "Software Engineer I",
       "location": "Uniondale, NY +3",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://acrisure.wd1.myworkdayjobs.com/en-US/acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871",
       "category": "Other"
     },
@@ -1212,7 +1257,7 @@
       "position": "Software Engineer I",
       "location": "Atlanta, GA",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005697",
       "category": "Other"
     },
@@ -1221,7 +1266,7 @@
       "position": "2026-2027 Information Technology - Software Engineer - Full-Time",
       "location": "Houston, TX +5",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://chevron.wd5.myworkdayjobs.com/en-US/university/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
       "category": "Other"
     },
@@ -1230,7 +1275,7 @@
       "position": "Edison Engineering Development Program - EEDP - Software - January 2027",
       "location": "Louisville, KY",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
       "category": "Other"
     },
@@ -1239,7 +1284,7 @@
       "position": "Edison Engineering Development Program - EEDP - Software - July 2027",
       "location": "Louisville, KY",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
       "category": "Other"
     },
@@ -1248,17 +1293,8 @@
       "position": "Software Engineer - Applied AI - New Grad",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d",
-      "category": "Other"
-    },
-    {
-      "company": "Netic",
-      "position": "Software Engineer - Agent Platform - New Grad - 2026-2027",
-      "location": "San Francisco, CA",
-      "salary": null,
-      "age": "9d",
-      "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
       "category": "Other"
     },
     {
@@ -1266,8 +1302,17 @@
       "position": "Full-Stack Software Engineer - Product - New Grad - 2026-2027",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+      "category": "Other"
+    },
+    {
+      "company": "Netic",
+      "position": "Software Engineer - Agent Platform - New Grad - 2026-2027",
+      "location": "San Francisco, CA",
+      "salary": null,
+      "age": "10d",
+      "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
       "category": "Other"
     },
     {
@@ -1275,7 +1320,7 @@
       "position": "Associate Full Stack Engineer",
       "location": "McLean, VA",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://revolutional.com/job-openings/?gh_jid=7801406003",
       "category": "Other"
     },
@@ -1284,7 +1329,7 @@
       "position": "Associate Application Programmer / Java Developer",
       "location": "McLean, VA",
       "salary": null,
-      "age": "9d",
+      "age": "10d",
       "url": "https://revolutional.com/job-openings/?gh_jid=7801391003",
       "category": "Other"
     },
@@ -1293,8 +1338,8 @@
       "position": "Junior Full Stack Developer - Bilingual in Korean",
       "location": "Plano, TX",
       "salary": null,
-      "age": "9d",
-      "url": "https://jobs.smartrecruiters.com/SBTGlobalInc/3743990014116306-junior-full-stack-developer-bilingual-in-korean?oga=true",
+      "age": "10d",
+      "url": "https://jobs.smartrecruiters.com/SBTGlobalInc/3743990014115606-junior-full-stack-developer-bilingual-in-korean?oga=true",
       "category": "Other"
     },
     {
@@ -1302,8 +1347,8 @@
       "position": "Junior Full Stack Developer - Bilingual in Korean",
       "location": "Plano, TX",
       "salary": null,
-      "age": "9d",
-      "url": "https://jobs.smartrecruiters.com/SBTGlobalInc/3743990014115606-junior-full-stack-developer-bilingual-in-korean?oga=true",
+      "age": "10d",
+      "url": "https://jobs.smartrecruiters.com/SBTGlobalInc/3743990014116306-junior-full-stack-developer-bilingual-in-korean?oga=true",
       "category": "Other"
     },
     {
@@ -1311,7 +1356,7 @@
       "position": "Web Developer - Mid-level - SWE I - Government",
       "location": "Columbia, MD",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Columbia-Maryland/Web-Developer--Mid-level---SWE-I---Government-_R-115855",
       "category": "Other"
     },
@@ -1320,7 +1365,7 @@
       "position": "Associate Software Engineer",
       "location": "Maryland Heights, MO",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142-1",
       "category": "Other"
     },
@@ -1329,7 +1374,7 @@
       "position": "Junior Java Developer",
       "location": "Tampa, FL",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Junior-Java-Developer_26941825-1",
       "category": "Other"
     },
@@ -1338,7 +1383,7 @@
       "position": "Associate Software Developer",
       "location": "Washington, DC",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "http://constellationinc.applytojob.com/apply/3uMT1I88kg/Associate-Software-Developer",
       "category": "Other"
     },
@@ -1347,7 +1392,7 @@
       "position": "Junior Power Platform Developer",
       "location": "Fairfax, VA",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://careers-dewberry.icims.com/jobs/15975/junior-power-platform-developer/job",
       "category": "Other"
     },
@@ -1356,7 +1401,7 @@
       "position": "Software Engineer I",
       "location": "San Diego, CA",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://apply.workable.com/fuse-integration/j/6B54E80594/",
       "category": "Other"
     },
@@ -1365,7 +1410,7 @@
       "position": "Entry Level Software Engineer",
       "location": "Scottsdale, AZ",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://careers-gdms.icims.com/jobs/73193/entry-level-software-engineer/job",
       "category": "Other"
     },
@@ -1374,7 +1419,7 @@
       "position": "Associate ServiceNow Developer - Secret Clearance Required",
       "location": "Reston, VA",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Associate-ServiceNow-Developer--Secret-Clearance-Required-_R2602450",
       "category": "Other"
     },
@@ -1383,7 +1428,7 @@
       "position": "Associate Developer- Reams Asset Management",
       "location": "Indianapolis, IN",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/raymondjamescareers/job/Indianapolis-Indiana---United-States/Associate-Developer--Reams-Asset-Management_R-0010485",
       "category": "Other"
     },
@@ -1392,7 +1437,7 @@
       "position": "Associate Product Developer - Home Environment",
       "location": "Needham, MA",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4696640006",
       "category": "Other"
     },
@@ -1401,7 +1446,7 @@
       "position": "Software Engineer I - Guidewire Policy Configuration",
       "location": "Hartford, CT +2",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://travelers.wd5.myworkdayjobs.com/en-US/external/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545",
       "category": "Other"
     },
@@ -1410,7 +1455,7 @@
       "position": "Associate Software Engineer",
       "location": "Detroit, MI",
       "salary": null,
-      "age": "10d",
+      "age": "11d",
       "url": "https://careers-urbanscience.icims.com/jobs/5181/associate-software-engineer/job",
       "category": "Other"
     },
@@ -1419,7 +1464,7 @@
       "position": "Software Engineer - Early Career",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
       "category": "Other"
     },
@@ -1428,7 +1473,7 @@
       "position": "C or C++ Junior Developer",
       "location": "Dahlgren, VA",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-or-C---Junior-Developer_R0165501",
       "category": "Other"
     },
@@ -1437,17 +1482,8 @@
       "position": "Entry Level Software Engineer",
       "location": "Huntsville, AL",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://careers-i3-corps.icims.com/jobs/5175/entry-level-software-engineer/job",
-      "category": "Other"
-    },
-    {
-      "company": "Light & Wonder",
-      "position": "Associate Software QA Engineer",
-      "location": "Las Vegas, NV",
-      "salary": null,
-      "age": "11d",
-      "url": "https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322338",
       "category": "Other"
     },
     {
@@ -1455,7 +1491,7 @@
       "position": "Software Engineer - General - new grad / early career",
       "location": "Torrance, CA",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede",
       "category": "Other"
     },
@@ -1464,7 +1500,7 @@
       "position": "Software Engineer - 2027 Graduate Program - August Start",
       "location": "Chicago, IL",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003",
       "category": "Other"
     },
@@ -1473,7 +1509,7 @@
       "position": "Associate Developer",
       "location": "Orlando, FL",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-C--Developer_R-4196",
       "category": "Other"
     },
@@ -1482,7 +1518,7 @@
       "position": "Junior Front-End Developer",
       "location": "Westminster, CO",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Junior-Front-End-Developer_R183194",
       "category": "Other"
     },
@@ -1491,7 +1527,7 @@
       "position": "Developer I",
       "location": "Sioux Falls, SD",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://poet.wd1.myworkdayjobs.com/en-US/poet/job/Sioux-Falls-SD/Developer-I_R101525",
       "category": "Other"
     },
@@ -1500,7 +1536,7 @@
       "position": "Associate Software Engineer",
       "location": "Boise, ID",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Idaho---Boise/Associate-Software-Engineer_2026-21552",
       "category": "Other"
     },
@@ -1509,7 +1545,7 @@
       "position": "Software Engineer I w/Top Secret Clearance",
       "location": "Washington, DC",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://careers-teksynap.icims.com/jobs/9159/software-engineer-i-w-top-secret-clearance/job",
       "category": "Other"
     },
@@ -1518,7 +1554,7 @@
       "position": "Software Engineer I - Device Drivers",
       "location": "Ann Arbor, MI",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8534177002",
       "category": "Other"
     },
@@ -1527,7 +1563,7 @@
       "position": "Software Engineer I - Mission Software",
       "location": "Long Beach, CA",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006",
       "category": "Other"
     },
@@ -1536,7 +1572,7 @@
       "position": "Software Developer I - COBOL",
       "location": "Cincinnati, OH",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://careers-westernsouthern.icims.com/jobs/24925/software-developer-i-%28cobol%29/job",
       "category": "Other"
     },
@@ -1545,7 +1581,7 @@
       "position": "Software Engineer 1",
       "location": "Maryland, USA",
       "salary": null,
-      "age": "11d",
+      "age": "12d",
       "url": "https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18",
       "category": "Other"
     },
@@ -1554,7 +1590,7 @@
       "position": "Automation Developer I",
       "location": "Remote - Carrollton, TX",
       "salary": null,
-      "age": "12d",
+      "age": "13d",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/en-US/global/job/Carrollton-TX/Automation-Developer-I_R2521185",
       "category": "Other"
     },
@@ -1563,7 +1599,7 @@
       "position": "Software Engineer I - Data Eng infra",
       "location": "Mountain View, CA",
       "salary": null,
-      "age": "12d",
+      "age": "13d",
       "url": "https://aurora.tech/jobs/8628066002?gh_jid=8628066002",
       "category": "Other"
     },
@@ -1572,8 +1608,8 @@
       "position": "Equity Research Analyst/Associate - Software",
       "location": "New York City, NY",
       "salary": null,
-      "age": "12d",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Equity-Research-Analyst-Associate---Software_JR040545-1",
+      "age": "13d",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/private/job/New-York-New-York-United-States-of-America/Equity-Research-Analyst-Associate---Software_JR040545",
       "category": "Other"
     },
     {
@@ -1581,8 +1617,8 @@
       "position": "Equity Research Analyst/Associate - Software",
       "location": "New York City, NY",
       "salary": null,
-      "age": "12d",
-      "url": "https://ms.wd5.myworkdayjobs.com/en-US/private/job/New-York-New-York-United-States-of-America/Equity-Research-Analyst-Associate---Software_JR040545",
+      "age": "13d",
+      "url": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Equity-Research-Analyst-Associate---Software_JR040545-1",
       "category": "Other"
     },
     {
@@ -1590,7 +1626,7 @@
       "position": "Associate Cloud Infrastructure Engineer",
       "location": "Remote - Atlanta, GA +2",
       "salary": null,
-      "age": "12d",
+      "age": "13d",
       "url": "https://repay.wd1.myworkdayjobs.com/en-US/repaycareers/job/Atlanta-Headquarters/Associate-Cloud-Infrastructure-Engineer_JR634",
       "category": "Other"
     },
@@ -1599,7 +1635,7 @@
       "position": "Junior Full Stack Developer",
       "location": "USA",
       "salary": null,
-      "age": "12d",
+      "age": "13d",
       "url": "https://careers-cadmusgroup.icims.com/jobs/3199/junior-full-stack-developer/job",
       "category": "Other"
     },
@@ -1608,7 +1644,7 @@
       "position": "UiPath Robotic Process Automation Developer Associate",
       "location": "USA",
       "salary": null,
-      "age": "13d",
+      "age": "14d",
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1",
       "category": "Other"
     },
@@ -1617,7 +1653,7 @@
       "position": "Associate Backend Engineer",
       "location": "New York City, NY",
       "salary": null,
-      "age": "14d",
+      "age": "15d",
       "url": "https://job-boards.greenhouse.io/eulerity/jobs/4695682006",
       "category": "Other"
     },
@@ -1626,7 +1662,7 @@
       "position": "New College Grad - SSD Firmware Engineer",
       "location": "Milpitas, CA",
       "salary": null,
-      "age": "14d",
+      "age": "15d",
       "url": "https://jobs.smartrecruiters.com/Sandisk/744000137191590-new-college-grad-ssd-firmware-engineer?oga=true",
       "category": "Other"
     },
@@ -1635,7 +1671,7 @@
       "position": "Early Career Firmware Engineer",
       "location": "Costa Mesa, CA",
       "salary": null,
-      "age": "15d",
+      "age": "16d",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007",
       "category": "Other"
     },
@@ -1644,7 +1680,7 @@
       "position": "Software Engineering Co-op_Spring 2027",
       "location": "Louisville, KY",
       "salary": null,
-      "age": "15d",
+      "age": "16d",
       "url": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
       "category": "Other"
     },
@@ -1653,7 +1689,7 @@
       "position": "Infrastructure Software Systems Engineer - Entry Level",
       "location": "National City, CA",
       "salary": null,
-      "age": "15d",
+      "age": "16d",
       "url": "https://careers-gdms.icims.com/jobs/73389/infrastructure-software-systems-engineer---entry-level/job",
       "category": "Other"
     },
@@ -1662,7 +1698,7 @@
       "position": "Software Engineer I",
       "location": "Fenton, MO",
       "salary": null,
-      "age": "15d",
+      "age": "16d",
       "url": "https://maritz.wd1.myworkdayjobs.com/en-US/maritz/job/Fenton-MO/Software-Engineer-I_R15306",
       "category": "Other"
     },
@@ -1671,7 +1707,7 @@
       "position": "Software Engineer - New Grad",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "15d",
+      "age": "16d",
       "url": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d",
       "category": "Other"
     },
@@ -1680,7 +1716,7 @@
       "position": "Associate Product Developer - Skincare",
       "location": "Needham, MA",
       "salary": null,
-      "age": "15d",
+      "age": "16d",
       "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695485006",
       "category": "Other"
     },
@@ -1689,7 +1725,7 @@
       "position": "Cloud Platform Engineering Manager I - Cybersecurity",
       "location": "Sparks, NV +1",
       "salary": null,
-      "age": "15d",
+      "age": "16d",
       "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Sparks-NV/Cloud-Platform-Engineering-Manager-I---Cybersecurity_R0030309",
       "category": "Other"
     },
@@ -1698,7 +1734,7 @@
       "position": "Software Engineer I - Internal Tooling",
       "location": "Nashville, TN",
       "salary": null,
-      "age": "16d",
+      "age": "17d",
       "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005",
       "category": "Other"
     },
@@ -1707,7 +1743,7 @@
       "position": "Cyber Software Engineer - Junior",
       "location": "Florham Park, NJ",
       "salary": null,
-      "age": "16d",
+      "age": "17d",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Cyber-Software-Engineer--Junior_328835",
       "category": "Other"
     },
@@ -1716,7 +1752,7 @@
       "position": "Junior Software Engineer",
       "location": "Herndon, VA",
       "salary": null,
-      "age": "16d",
+      "age": "17d",
       "url": "https://careers-peraton.icims.com/jobs/168418/junior-software-engineer/job",
       "category": "Other"
     },
@@ -1725,7 +1761,7 @@
       "position": "Associate Software Engineer - Full Stack - AI First",
       "location": "Phoenix, AZ",
       "salary": null,
-      "age": "16d",
+      "age": "17d",
       "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710645005?gh_jid=4710645005",
       "category": "Other"
     },
@@ -1734,7 +1770,7 @@
       "position": "Associate-Graduate:Developer",
       "location": "Chicago, IL",
       "salary": null,
-      "age": "16d",
+      "age": "17d",
       "url": "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730",
       "category": "Other"
     },
@@ -1743,7 +1779,7 @@
       "position": "Junior Software Developer",
       "location": "Washington, DC",
       "salary": null,
-      "age": "17d",
+      "age": "18d",
       "url": "https://akumeninc.com/career/?gh_jid=4308114009",
       "category": "Other"
     },
@@ -1752,7 +1788,7 @@
       "position": "Junior Software Engineer",
       "location": "Denver, CO +3",
       "salary": null,
-      "age": "17d",
+      "age": "18d",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Junior-Software-Engineer_327867",
       "category": "Other"
     },
@@ -1761,7 +1797,7 @@
       "position": "iOS Engineer I",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "17d",
+      "age": "18d",
       "url": "https://jobs.ashbyhq.com/handshake/823c6e64-714e-4098-8b16-cf1819fc090d",
       "category": "Other"
     },
@@ -1770,7 +1806,7 @@
       "position": "Associate Software Engineer - Java - AI First",
       "location": "Phoenix, AZ",
       "salary": null,
-      "age": "17d",
+      "age": "18d",
       "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710649005?gh_jid=4710649005",
       "category": "Other"
     },
@@ -1779,7 +1815,7 @@
       "position": "iOS Mobile Software Developer I",
       "location": "Seattle, WA +2",
       "salary": null,
-      "age": "17d",
+      "age": "18d",
       "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1",
       "category": "Other"
     },
@@ -1788,7 +1824,7 @@
       "position": "Software Engineer I - Device Control",
       "location": "Boston, MA",
       "salary": null,
-      "age": "17d",
+      "age": "18d",
       "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
       "category": "Other"
     },
@@ -1797,7 +1833,7 @@
       "position": "Software Engineer I - AI Driven",
       "location": "Saint Paul, MN",
       "salary": null,
-      "age": "17d",
+      "age": "18d",
       "url": "https://travelers.wd5.myworkdayjobs.com/en-US/external/job/CT---Hartford/Software-Engineer-I--AI-Driven-_R-51215",
       "category": "Other"
     },
@@ -1806,7 +1842,7 @@
       "position": "Application Developer I - OSF",
       "location": "Indianapolis, IN",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "https://bankatfirst.wd1.myworkdayjobs.com/en-US/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139",
       "category": "Other"
     },
@@ -1815,7 +1851,7 @@
       "position": "Software Engineer 1",
       "location": "USA",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1",
       "category": "Other"
     },
@@ -1824,7 +1860,7 @@
       "position": "Associate DevOps Developer",
       "location": "Seal Beach, CA",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "http://maania.applytojob.com/apply/JyjM2QGqIL/Associate-DevOps-Developer",
       "category": "Other"
     },
@@ -1833,7 +1869,7 @@
       "position": "26-2284: Junior Developer - Baltimore - MD",
       "location": "Baltimore, MD",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "http://navitas.applytojob.com/apply/x5Ur2QF03g/262284-Junior-Developer-Baltimore-MD",
       "category": "Other"
     },
@@ -1842,7 +1878,7 @@
       "position": "Software Engineer - Early Career",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
       "category": "Other"
     },
@@ -1851,7 +1887,7 @@
       "position": "Software Engineer - Early Career - AI",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
       "category": "Other"
     },
@@ -1860,7 +1896,7 @@
       "position": "Engagement Platform Team - Software Engineer - Early Career / Mid-Level",
       "location": "Menlo Park, CA",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "https://jobs.ashbyhq.com/sprinter-health/4e3244ca-93e1-4300-a14a-131f49e5db91",
       "category": "Other"
     },
@@ -1869,7 +1905,7 @@
       "position": "Associate Java Software Engineer",
       "location": "Wakefield, MA",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "https://job-boards.greenhouse.io/vestmark/jobs/8042636",
       "category": "Other"
     },
@@ -1878,7 +1914,7 @@
       "position": "Junior Software Engineer",
       "location": "Remote - USA",
       "salary": null,
-      "age": "18d",
+      "age": "19d",
       "url": "https://job-boards.greenhouse.io/waymark/jobs/4711827005",
       "category": "Other"
     },
@@ -1887,7 +1923,7 @@
       "position": "Associate Software Engineer / Software Engineer",
       "location": "Chicago, IL +2",
       "salary": null,
-      "age": "19d",
+      "age": "20d",
       "url": "https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job",
       "category": "Other"
     },
@@ -1896,7 +1932,7 @@
       "position": "Junior Software Developer",
       "location": "Pittsburgh, PA",
       "salary": null,
-      "age": "19d",
+      "age": "20d",
       "url": "http://bizowie.applytojob.com/apply/la7p2onXSl/Junior-Software-Developer",
       "category": "Other"
     },
@@ -1905,7 +1941,7 @@
       "position": "Junior Software Engineer",
       "location": "Middletown, RI",
       "salary": null,
-      "age": "19d",
+      "age": "20d",
       "url": "https://careers-gdms.icims.com/jobs/73392/junior-software-engineer/job",
       "category": "Other"
     },
@@ -1914,7 +1950,7 @@
       "position": "Junior Software Engineer",
       "location": "Middletown, RI",
       "salary": null,
-      "age": "19d",
+      "age": "20d",
       "url": "https://careers-gdms.icims.com/jobs/73375/junior-software-engineer/job",
       "category": "Other"
     },
@@ -1923,7 +1959,7 @@
       "position": "Software Engineer - New Grad",
       "location": "San Mateo, CA",
       "salary": null,
-      "age": "22d",
+      "age": "23d",
       "url": "https://www.ixl.com/company/jobs?gh_jid=8615710002",
       "category": "Other"
     },
@@ -1932,7 +1968,7 @@
       "position": "Software Engineer - New Grad",
       "location": "Raleigh-Durham, NC +1",
       "salary": null,
-      "age": "22d",
+      "age": "23d",
       "url": "https://www.ixl.com/company/jobs?gh_jid=8615717002",
       "category": "Other"
     },
@@ -1941,7 +1977,7 @@
       "position": "Analytic Developer-Junior",
       "location": "Maryland City, MD",
       "salary": null,
-      "age": "22d",
+      "age": "23d",
       "url": "https://netsage.com/careers/current-openings/job?gh_jid=7793281003",
       "category": "Other"
     },
@@ -1950,7 +1986,7 @@
       "position": "C++/Linux Software Engineer I",
       "location": "Atlanta, GA",
       "salary": null,
-      "age": "23d",
+      "age": "24d",
       "url": "https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1",
       "category": "Other"
     },
@@ -1959,7 +1995,7 @@
       "position": "Part - Time Instructor - Software - CIT - FY 2027",
       "location": "Carson City, NV",
       "salary": null,
-      "age": "23d",
+      "age": "24d",
       "url": "https://nshe.wd1.myworkdayjobs.com/en-US/csn-external/job/CSN---Charleston-Campus/Part---Time-Instructor--Software---CIT---FY-2027_R0152470",
       "category": "Other"
     },
@@ -1968,7 +2004,7 @@
       "position": "Software Development Engineering - Advisor I",
       "location": "Alpharetta, GA +2",
       "salary": null,
-      "age": "23d",
+      "age": "24d",
       "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Alpharetta-Georgia/Software-Development-Engineering---Advisor-I_R-10382096",
       "category": "Other"
     },
@@ -1977,7 +2013,7 @@
       "position": "Software Engineer - Early Career",
       "location": "Farmers Branch, TX",
       "salary": null,
-      "age": "23d",
+      "age": "24d",
       "url": "https://varsitybrands.wd503.myworkdayjobs.com/en-US/ExternalCareerSite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1",
       "category": "Other"
     },
@@ -1986,7 +2022,7 @@
       "position": "Junior Software Engineer",
       "location": "Reston, VA",
       "salary": null,
-      "age": "23d",
+      "age": "24d",
       "url": "https://job-boards.greenhouse.io/verisign/jobs/7766899003",
       "category": "Other"
     },
@@ -1995,7 +2031,7 @@
       "position": "Software Engineer I - Backend",
       "location": "Boston, MA",
       "salary": null,
-      "age": "23d",
+      "age": "24d",
       "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133",
       "category": "Other"
     },
@@ -2004,7 +2040,7 @@
       "position": "Junior DevOps Engineer",
       "location": "Hanover, MD",
       "salary": null,
-      "age": "24d",
+      "age": "25d",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4690994006?gh_jid=4690994006",
       "category": "Other"
     },
@@ -2013,7 +2049,7 @@
       "position": "Software Engineer I",
       "location": "Atlanta, GA",
       "salary": null,
-      "age": "24d",
+      "age": "25d",
       "url": "https://adtran.wd3.myworkdayjobs.com/en-US/adtran/job/Atlanta-GA/Software-Engineer-I_R005699",
       "category": "Other"
     },
@@ -2022,7 +2058,7 @@
       "position": "Associate Software Controls Engineer",
       "location": "Corvallis, OR",
       "salary": null,
-      "age": "24d",
+      "age": "25d",
       "url": "http://andrewscooper.applytojob.com/apply/z5YlC87LkK/Associate-Software-Controls-Engineer",
       "category": "Other"
     },
@@ -2031,7 +2067,7 @@
       "position": "Junior Software Developer",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "24d",
+      "age": "25d",
       "url": "https://nwis.wd12.myworkdayjobs.com/en-US/nw/job/Annapolis-Junction-MD/Junior-Software-Developer_JR101838",
       "category": "Other"
     },
@@ -2040,7 +2076,7 @@
       "position": "Software QA Automation Engineer I",
       "location": "Moorpark, CA",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
       "category": "Other"
     },
@@ -2049,7 +2085,7 @@
       "position": "Junior Full Stack Developer",
       "location": "Sterling, VA",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://job-boards.greenhouse.io/assystinc/jobs/4301083009",
       "category": "Other"
     },
@@ -2058,7 +2094,7 @@
       "position": "Software Quality Assurance - SQA Engineer I",
       "location": "Beverly, MA",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://axcelis.wd1.myworkdayjobs.com/en-US/axcelis/job/Beverly-MA/Software-Quality-Assurance--SQA--Engineer_11741-1",
       "category": "Other"
     },
@@ -2067,17 +2103,8 @@
       "position": "Junior Digital Training Developer/Strategist",
       "location": "Wright-Patterson AFB, OH",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Wright-Patterson-AFB-OH-US/Digital-Training-Implementation-Agile-Coach-Specialist_326947",
-      "category": "Other"
-    },
-    {
-      "company": "Cox",
-      "position": "Software Engineer I",
-      "location": "Atlanta, GA +2",
-      "salary": null,
-      "age": "25d",
-      "url": "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I_R202679352",
       "category": "Other"
     },
     {
@@ -2085,7 +2112,7 @@
       "position": "Software Engineer I",
       "location": "Seattle, WA",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://careers.dat.com/jobs/6091895004?gh_jid=6091895004",
       "category": "Other"
     },
@@ -2094,7 +2121,7 @@
       "position": "Forward Deployed Software Engineer - New Grad - Commercial",
       "location": "Chicago, IL",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
       "category": "Other"
     },
@@ -2103,7 +2130,7 @@
       "position": "Junior Cloud Software Engineer - AI/ML - TS/SCI w/ Poly",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://careers-peraton.icims.com/jobs/168225/junior-cloud-software-engineer-%28ai-ml%29---ts-sci-w--poly/job",
       "category": "Other"
     },
@@ -2112,7 +2139,7 @@
       "position": "Associate ServiceNow Developer",
       "location": "Boston, MA",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://jobs.ashbyhq.com/rapdev/66cf2f9a-3908-454b-acc7-bae93a35746c",
       "category": "Other"
     },
@@ -2121,7 +2148,7 @@
       "position": "Lecturer - Cloud Management & Operations - ITE College East - 2 Year Contract",
       "location": "College, AK",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://sggovterp.wd102.myworkdayjobs.com/en-US/publicservicecareers/job/ITE-CE-College-East/Lecturer---Cloud-Management---Operations--ITE-College-East----2-Year-Contract_JR-10000052058",
       "category": "Other"
     },
@@ -2130,7 +2157,7 @@
       "position": "Software Engineer I",
       "location": "Atlanta, GA +2",
       "salary": null,
-      "age": "25d",
+      "age": "26d",
       "url": "https://travelers.wd5.myworkdayjobs.com/en-US/external/job/CT---Hartford/Software-Engineer-I_R-51276-1",
       "category": "Other"
     },
@@ -2139,7 +2166,7 @@
       "position": "Junior Software Developer",
       "location": "Lexington Park, MD",
       "salary": null,
-      "age": "26d",
+      "age": "27d",
       "url": "https://apply.workable.com/saalex/j/B7D9564ADC/",
       "category": "Other"
     },
@@ -2148,7 +2175,7 @@
       "position": "IVA Software Engineer PA2026Q2JB011",
       "location": "Quincy, MA",
       "salary": null,
-      "age": "26d",
+      "age": "27d",
       "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Kansas-City---Broadway-Square-Garage/IVA-Software-Engineer-PA2026Q2JB011_R43474-1",
       "category": "Other"
     },
@@ -2157,7 +2184,7 @@
       "position": "Junior Software Developer - TS/SCI",
       "location": "USA +1",
       "salary": null,
-      "age": "27d",
+      "age": "28d",
       "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Herndon/Junior-Software-Developer---TS-SCI_R182648",
       "category": "Other"
     },
@@ -2166,7 +2193,7 @@
       "position": "Data Warehouse Software Engineer I",
       "location": "Reston, VA +1",
       "salary": null,
-      "age": "28d",
+      "age": "29d",
       "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8030833",
       "category": "Other"
     },
@@ -2175,7 +2202,7 @@
       "position": "DevOps Engineer - Junior",
       "location": "Denver, CO +2",
       "salary": null,
-      "age": "29d",
+      "age": "30d",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/DevOps-Engineer---Junior_327971",
       "category": "Other"
     },
@@ -2184,7 +2211,7 @@
       "position": "Junior Software Data Engineer",
       "location": "Fort Meade, MD",
       "salary": null,
-      "age": "29d",
+      "age": "30d",
       "url": "https://careers-peraton.icims.com/jobs/168069/junior-software-data-engineer/job",
       "category": "Other"
     },
@@ -2193,7 +2220,7 @@
       "position": "Software Engineer I - Frontend - Growth",
       "location": "Boston, MA",
       "salary": null,
-      "age": "29d",
+      "age": "30d",
       "url": "https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087",
       "category": "Other"
     },
@@ -2202,7 +2229,7 @@
       "position": "Hardware Design Associate - Software Defined Radio Team - Fall 2026",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "30d",
+      "age": "31d",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4691172006",
       "category": "Other"
     },
@@ -2211,7 +2238,7 @@
       "position": "ATE Associate Software Engineer",
       "location": "Asti, Italy +1",
       "salary": null,
-      "age": "30d",
+      "age": "31d",
       "url": "https://ast-science.com/company/careers/?gh_jid=4708549005",
       "category": "Other"
     },
@@ -2220,7 +2247,7 @@
       "position": "Software Development Engineer I",
       "location": "St. Louis, MO +1",
       "salary": null,
-      "age": "30d",
+      "age": "31d",
       "url": "https://www.esri.com/careers/5173239007?gh_jid=5173239007",
       "category": "Other"
     },
@@ -2229,7 +2256,7 @@
       "position": "Junior Salesforce Developer",
       "location": "Remote - USA",
       "salary": null,
-      "age": "30d",
+      "age": "31d",
       "url": "https://job-boards.greenhouse.io/litify/jobs/8027446",
       "category": "Other"
     },
@@ -2238,7 +2265,7 @@
       "position": "NFC System Software Validation Engineer - Entry Level",
       "location": "San Diego, CA",
       "salary": null,
-      "age": "30d",
+      "age": "31d",
       "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Innovation-Dr/NFC-System-Software-Validation-Engineer---Entry-Level_R-10064295",
       "category": "Other"
     },
@@ -2247,7 +2274,7 @@
       "position": "Software Engineer 1",
       "location": "Laurel, MD",
       "salary": null,
-      "age": "30d",
+      "age": "31d",
       "url": "https://jobs.lever.co/wyetechllc/afdaaf60-9a49-4930-beb8-c68be4fd5f16",
       "category": "Other"
     },
@@ -2256,7 +2283,7 @@
       "position": "Software Developer I",
       "location": "Aberdeen Proving Ground, MD",
       "salary": null,
-      "age": "31d",
+      "age": "32d",
       "url": "https://jobs.lever.co/agile-defense/4d5254dd-8366-4983-9156-a7f989fea964",
       "category": "Other"
     },
@@ -2265,7 +2292,7 @@
       "position": "2026 Startup Lab Associate—Software Engineering/Data Science - HYD",
       "location": "London, United Kingdom +1",
       "salary": null,
-      "age": "31d",
+      "age": "32d",
       "url": "https://startup.fulcrumgt.com/jobs/?gh_jid=5172538007",
       "category": "Other"
     },
@@ -2274,7 +2301,7 @@
       "position": "Network Software Test Engineer I",
       "location": "Roseville, CA",
       "salary": null,
-      "age": "31d",
+      "age": "32d",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202393",
       "category": "Other"
     },
@@ -2283,7 +2310,7 @@
       "position": "Network Software Test Engineer I",
       "location": "Roseville, CA",
       "salary": null,
-      "age": "31d",
+      "age": "32d",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202393-2",
       "category": "Other"
     },
@@ -2292,7 +2319,7 @@
       "position": "Network Software Test Engineer I",
       "location": "Roseville, CA",
       "salary": null,
-      "age": "31d",
+      "age": "32d",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202393-1",
       "category": "Other"
     },
@@ -2301,7 +2328,7 @@
       "position": "Junior Software Engineer",
       "location": "Beavercreek, OH",
       "salary": null,
-      "age": "31d",
+      "age": "32d",
       "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2125556",
       "category": "Other"
     },
@@ -2310,7 +2337,7 @@
       "position": "Junior Data Integrity Engineer - Avionics Software & Data Analysis",
       "location": "Lexington Park, MD",
       "salary": null,
-      "age": "31d",
+      "age": "32d",
       "url": "https://apply.workable.com/saalex/j/2D1B9D4A3C/",
       "category": "Other"
     },
@@ -2319,7 +2346,7 @@
       "position": "Junior DevOps Engineer",
       "location": "Orlando, FL",
       "salary": null,
-      "age": "31d",
+      "age": "32d",
       "url": "https://job-boards.greenhouse.io/threatlocker/jobs/6100007004",
       "category": "Other"
     },
@@ -2328,7 +2355,7 @@
       "position": "Software Engineer - 2027 University Grad",
       "location": "Sunnyvale, CA",
       "salary": null,
-      "age": "32d",
+      "age": "33d",
       "url": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
       "category": "Other"
     },
@@ -2337,7 +2364,7 @@
       "position": "Software Engineer I",
       "location": "Seattle, WA",
       "salary": null,
-      "age": "32d",
+      "age": "33d",
       "url": "https://careers.dat.com/jobs/6099144004?gh_jid=6099144004",
       "category": "Other"
     },
@@ -2346,7 +2373,7 @@
       "position": "Associate Web Development Software Engineer - SDK",
       "location": "New York City, NY",
       "salary": null,
-      "age": "32d",
+      "age": "33d",
       "url": "https://job-boards.greenhouse.io/eulerity/jobs/4691221006",
       "category": "Other"
     },
@@ -2355,8 +2382,8 @@
       "position": "Software Engineer I -Embedded System",
       "location": "Sunnyvale, CA",
       "salary": null,
-      "age": "32d",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169",
+      "age": "33d",
+      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2",
       "category": "Other"
     },
     {
@@ -2364,8 +2391,8 @@
       "position": "Software Engineer I -Embedded System",
       "location": "Sunnyvale, CA",
       "salary": null,
-      "age": "32d",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2",
+      "age": "33d",
+      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169",
       "category": "Other"
     },
     {
@@ -2373,7 +2400,7 @@
       "position": "Cloud Engineer I - OSC - 3rd Shift - Tuesday-Saturday",
       "location": "Suwanee, GA",
       "salary": null,
-      "age": "32d",
+      "age": "33d",
       "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Suwanee-GA/Cloud-Engineer-I---OSC---3rd-Shift--Tuesday-Saturday-_R2026-1328",
       "category": "Other"
     },
@@ -2382,7 +2409,7 @@
       "position": "Junior Software Engineer - AI-Forward",
       "location": "Austin, TX",
       "salary": null,
-      "age": "32d",
+      "age": "33d",
       "url": "https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/",
       "category": "Other"
     },
@@ -2391,7 +2418,7 @@
       "position": "Software Engineer - Junior",
       "location": "Albuquerque, NM",
       "salary": null,
-      "age": "33d",
+      "age": "34d",
       "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242701",
       "category": "Other"
     },
@@ -2400,7 +2427,7 @@
       "position": "Entry Level Software Engineer - Burlington - VT",
       "location": "Burlington, VT",
       "salary": null,
-      "age": "33d",
+      "age": "34d",
       "url": "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034",
       "category": "Other"
     },
@@ -2409,7 +2436,7 @@
       "position": "Software Development Engineering - Advisor I",
       "location": "Omaha, NE",
       "salary": null,
-      "age": "34d",
+      "age": "35d",
       "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Omaha-Nebraska/Software-Development-Engineering---Advisor-I_R-10374511",
       "category": "Other"
     },
@@ -2418,7 +2445,7 @@
       "position": "Software Engineer - Ghidra/FPGA 2026-0146",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "37d",
+      "age": "38d",
       "url": "http://acclaimtechnicalservices.applytojob.com/apply/XraGLkH9Bo/Software-Engineer-GhidraFPGA-20260146",
       "category": "Other"
     },
@@ -2427,7 +2454,7 @@
       "position": "Junior Software Developer - Active TS/SCI + Poly",
       "location": "Fort Meade, MD",
       "salary": null,
-      "age": "37d",
+      "age": "38d",
       "url": "https://aperioglobal.com/career/job-openings-2/?gh_jid=5267629008",
       "category": "Other"
     },
@@ -2436,7 +2463,7 @@
       "position": "Junior Developer - Python & Go",
       "location": "Remote",
       "salary": null,
-      "age": "37d",
+      "age": "38d",
       "url": "https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4706922005",
       "category": "Other"
     },
@@ -2445,7 +2472,7 @@
       "position": "Production Programmer - Entry Level SQL Developer",
       "location": "Germantown, MD",
       "salary": null,
-      "age": "37d",
+      "age": "38d",
       "url": "https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885",
       "category": "Other"
     },
@@ -2454,7 +2481,7 @@
       "position": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
       "location": "Minnetonka, MN +1",
       "salary": null,
-      "age": "37d",
+      "age": "38d",
       "url": "https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Minnetonka-MN/Enterprise-Payments-and-Credit-Card-Programmer-Analyst-2_R0070757",
       "category": "Other"
     },
@@ -2463,7 +2490,7 @@
       "position": "Junior Power Platform Developer",
       "location": "USA",
       "salary": null,
-      "age": "37d",
+      "age": "38d",
       "url": "https://careers-ita-intl.icims.com/jobs/4470/junior-power-platform-developer/job",
       "category": "Other"
     },
@@ -2472,7 +2499,7 @@
       "position": "Junior Software Developer",
       "location": "Huntsville, AL",
       "salary": null,
-      "age": "37d",
+      "age": "38d",
       "url": "https://careers-peopletec.icims.com/jobs/5148/junior-software-developer/job",
       "category": "Other"
     },
@@ -2481,7 +2508,7 @@
       "position": "Business Systems Analyst I - ERP Training Developer",
       "location": "Remote",
       "salary": null,
-      "age": "38d",
+      "age": "39d",
       "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Remote/Business-Systems-Analyst-I---ERP-Training-Developer_JR221931",
       "category": "Other"
     },
@@ -2490,17 +2517,8 @@
       "position": "Full Stack Software Engineer I",
       "location": "San Diego, CA",
       "salary": null,
-      "age": "38d",
+      "age": "39d",
       "url": "https://medimpact.wd5.myworkdayjobs.com/en-US/medimpact/job/San-Diego-CA/Software-Engineer-I_JR102576",
-      "category": "Other"
-    },
-    {
-      "company": "Nightwing",
-      "position": "Junior Software Engineer - SWE0",
-      "location": "Annapolis Junction, MD",
-      "salary": null,
-      "age": "38d",
-      "url": "https://nwis.wd12.myworkdayjobs.com/en-US/nw/job/Annapolis-Junction-MD/Junior-Software-Engineer_01677525",
       "category": "Other"
     },
     {
@@ -2508,8 +2526,17 @@
       "position": "Software Engineer 1",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "38d",
+      "age": "39d",
       "url": "https://nwis.wd12.myworkdayjobs.com/en-US/nw/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150",
+      "category": "Other"
+    },
+    {
+      "company": "Nightwing",
+      "position": "Junior Software Engineer - SWE0",
+      "location": "Annapolis Junction, MD",
+      "salary": null,
+      "age": "39d",
+      "url": "https://nwis.wd12.myworkdayjobs.com/en-US/nw/job/Annapolis-Junction-MD/Junior-Software-Engineer_01677525",
       "category": "Other"
     },
     {
@@ -2517,7 +2544,7 @@
       "position": "Junior Software Quality Assurance Analyst & Tester",
       "location": "Ridgecrest, CA",
       "salary": null,
-      "age": "38d",
+      "age": "39d",
       "url": "https://apply.workable.com/saalex/j/6419407930/",
       "category": "Other"
     },
@@ -2526,7 +2553,7 @@
       "position": "Software Engineer I - Loss Sensitive - Java - Spring Boot - TypeScript - Node.js - AI",
       "location": "Saint Paul, MN",
       "salary": null,
-      "age": "38d",
+      "age": "39d",
       "url": "https://travelers.wd5.myworkdayjobs.com/en-US/external/job/MN---St-Paul/Software-Engineer-I---Loss-Sensitive--Java--Spring-Boot--TypeScript--Nodejs--AI-_R-50957",
       "category": "Other"
     },
@@ -2535,7 +2562,7 @@
       "position": "Frontend Developer - React Junior/Mid",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "39d",
+      "age": "40d",
       "url": "https://jobs.ashbyhq.com/careerswift.ai/8f38501e-ad8d-4550-8a2d-a904ee6f8163",
       "category": "Other"
     },
@@ -2544,7 +2571,7 @@
       "position": "Software Engineer - Junior - FULLY CLEARED with POLYGRAPH REQUIRED",
       "location": "Fort Meade, MD",
       "salary": null,
-      "age": "39d",
+      "age": "40d",
       "url": "https://jobs.lever.co/cti-md/257bdd2b-abcc-4deb-85ca-ddfdaa384326",
       "category": "Other"
     },
@@ -2553,7 +2580,7 @@
       "position": "Software Development Analyst I - Merchant Services",
       "location": "Atlanta, GA",
       "salary": null,
-      "age": "39d",
+      "age": "40d",
       "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/usa_can/job/Fort-Worth-TX-USA-100-Throckmorton-St/Software-Development-Analyst-I---Merchant-Services_260636WD",
       "category": "Other"
     },
@@ -2562,7 +2589,7 @@
       "position": "Junior Embedded Software Engineer",
       "location": "Dedham, MA",
       "salary": null,
-      "age": "39d",
+      "age": "40d",
       "url": "https://careers-gdms.icims.com/jobs/73157/junior-embedded-software-engineer/job",
       "category": "Other"
     },
@@ -2571,7 +2598,7 @@
       "position": "Forward Deployed Software Engineer - New Grad - Intel - US Government",
       "location": "Washington, DC",
       "salary": null,
-      "age": "39d",
+      "age": "40d",
       "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382",
       "category": "Other"
     },
@@ -2580,7 +2607,7 @@
       "position": "Junior Frontend Engineer",
       "location": "US-Myrtle Beach, SC",
       "salary": null,
-      "age": "39d",
+      "age": "40d",
       "url": "https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-Myrtle-Beach-SC/Junior-Frontend-Engineer_R2025-244108",
       "category": "Other"
     },
@@ -2589,7 +2616,7 @@
       "position": "Junior Software Developer - Active TS/SCI with Poly Required",
       "location": "USA",
       "salary": null,
-      "age": "40d",
+      "age": "41d",
       "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
       "category": "Other"
     },
@@ -2598,7 +2625,7 @@
       "position": "Business Information Developer I",
       "location": "Charlotte, NC",
       "salary": null,
-      "age": "40d",
+      "age": "41d",
       "url": "https://truist.wd1.myworkdayjobs.com/en-US/careers/job/Charlotte-NC/Business-Information-Developer-I_R0114228",
       "category": "Other"
     },
@@ -2607,7 +2634,7 @@
       "position": "DOT Junior Software Developer",
       "location": "Vienna, VA",
       "salary": null,
-      "age": "42d",
+      "age": "43d",
       "url": "http://savangroup.applytojob.com/apply/lunpwPu4FI/DOT-Junior-Software-Developer",
       "category": "Other"
     },
@@ -2616,7 +2643,7 @@
       "position": "Software Engineer P2 - PA2026Q1JB050",
       "location": "Ontario, CA",
       "salary": null,
-      "age": "42d",
+      "age": "43d",
       "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Ontario-Toronto/Software-Engineer-P2---PA2026Q1JB050_R42442",
       "category": "Other"
     },
@@ -2625,7 +2652,7 @@
       "position": "2027 Early Career Software Engineer",
       "location": "Atlanta, GA +5",
       "salary": null,
-      "age": "43d",
+      "age": "44d",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
       "category": "Other"
     },
@@ -2634,7 +2661,7 @@
       "position": "Business Intelligence Developer-Medicaid - Level I - Remote AZ",
       "location": "AZ Blue Phoenix, AZ",
       "salary": null,
-      "age": "43d",
+      "age": "44d",
       "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Business-Intelligence-Developer-Medicaid---Level-I--Remote-AZ-_R6047",
       "category": "Other"
     },
@@ -2643,7 +2670,7 @@
       "position": "Software Engineer - New Grad",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "44d",
+      "age": "45d",
       "url": "https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf",
       "category": "Other"
     },
@@ -2652,7 +2679,7 @@
       "position": "Junior Embedded Software Development Engineer",
       "location": "Boston, MA +1",
       "salary": null,
-      "age": "44d",
+      "age": "45d",
       "url": "https://sonos.wd1.myworkdayjobs.com/en-US/sonos/job/Boston-MA/Junior-Embedded-Software-Development-Engineer_R2728",
       "category": "Other"
     },
@@ -2661,7 +2688,7 @@
       "position": "Junior Salesforce Developer",
       "location": "Salt Lake City, UT",
       "salary": null,
-      "age": "45d",
+      "age": "46d",
       "url": "http://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer",
       "category": "Other"
     },
@@ -2670,7 +2697,7 @@
       "position": "Software Engineer 1",
       "location": "Fort Meade, MD",
       "salary": null,
-      "age": "45d",
+      "age": "46d",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Fort-Meade/Software-Engineer-1_R0154171",
       "category": "Other"
     },
@@ -2679,7 +2706,7 @@
       "position": "Software Engineer 1",
       "location": "Fort Meade, MD",
       "salary": null,
-      "age": "45d",
+      "age": "46d",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Fort-Meade/Software-Engineer-1_R0154157",
       "category": "Other"
     },
@@ -2688,7 +2715,7 @@
       "position": "Software Engineer - 2026",
       "location": "Durham, NC",
       "salary": null,
-      "age": "45d",
+      "age": "46d",
       "url": "https://apply.workable.com/enfos-inc/j/7198DEBEB6/",
       "category": "Other"
     },
@@ -2697,7 +2724,7 @@
       "position": "Junior Software Developer 682",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "45d",
+      "age": "46d",
       "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5160107007",
       "category": "Other"
     },
@@ -2706,7 +2733,7 @@
       "position": "C++ Software Engineer - Junior",
       "location": "Beavercreek, OH",
       "salary": null,
-      "age": "46d",
+      "age": "47d",
       "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0241788",
       "category": "Other"
     },
@@ -2715,7 +2742,7 @@
       "position": "Purchasing Agent I - IT Hardware & Software",
       "location": "Menasha, WI",
       "salary": null,
-      "age": "46d",
+      "age": "47d",
       "url": "https://faithtechnologies.wd1.myworkdayjobs.com/en-US/fti/job/WI---Menasha/Asset-Administrator-I_R10613-1",
       "category": "Other"
     },
@@ -2724,7 +2751,7 @@
       "position": "Junior Software Engineer",
       "location": "Beavercreek, OH",
       "salary": null,
-      "age": "46d",
+      "age": "47d",
       "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294",
       "category": "Other"
     },
@@ -2733,7 +2760,7 @@
       "position": "Junior Software Test Engineer - Flight Safety Systems",
       "location": "Fort Belvoir, VA",
       "salary": null,
-      "age": "46d",
+      "age": "47d",
       "url": "https://careers-peraton.icims.com/jobs/167525/junior-software-test-engineer-%28flight-safety-systems%29/job",
       "category": "Other"
     },
@@ -2742,7 +2769,7 @@
       "position": "SW Engineer I - Full Stack - Officer",
       "location": "Burlington, MA",
       "salary": null,
-      "age": "47d",
+      "age": "48d",
       "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495",
       "category": "Other"
     },
@@ -2751,7 +2778,7 @@
       "position": "Junior Software Engineer - AI-Forward",
       "location": "Austin, TX",
       "salary": null,
-      "age": "47d",
+      "age": "48d",
       "url": "https://apply.workable.com/texas-sports-academy-main/j/EE83780698/",
       "category": "Other"
     },
@@ -2760,7 +2787,7 @@
       "position": "Junior Simulation Software Engineer",
       "location": "Houston, TX",
       "salary": null,
-      "age": "50d",
+      "age": "51d",
       "url": "http://metecs.applytojob.com/apply/WykvenszhG/Junior-Simulation-Software-Engineer",
       "category": "Other"
     },
@@ -2769,7 +2796,7 @@
       "position": "Software Engineer - I - Mission Control",
       "location": "Ann Arbor, MI",
       "salary": null,
-      "age": "50d",
+      "age": "51d",
       "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8566427002",
       "category": "Other"
     },
@@ -2778,7 +2805,7 @@
       "position": "Junior Cloud DevOps Engineer",
       "location": "Sioux Falls, SD",
       "salary": null,
-      "age": "51d",
+      "age": "52d",
       "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Sioux-Falls-South-Dakota/Junior-Cloud-DevOps-Engineer_R2124667",
       "category": "Other"
     },
@@ -2787,7 +2814,7 @@
       "position": "Junior Software Engineer",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "53d",
+      "age": "54d",
       "url": "http://belaytechnologies.applytojob.com/apply/6XkgXjwrHB/Junior-Software-Engineer",
       "category": "Other"
     },
@@ -2796,7 +2823,7 @@
       "position": "Junior Application Developer 675",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "53d",
+      "age": "54d",
       "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5152289007",
       "category": "Other"
     },
@@ -2805,7 +2832,7 @@
       "position": "Junior DevOps Engineer",
       "location": "Chantilly, VA +1",
       "salary": null,
-      "age": "53d",
+      "age": "54d",
       "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/Junior-DevOps-Engineer_R-00183797-1",
       "category": "Other"
     },
@@ -2814,7 +2841,7 @@
       "position": "Junior Python Developer",
       "location": "Chantilly, VA +1",
       "salary": null,
-      "age": "53d",
+      "age": "54d",
       "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/Junior-Python-Developer_R-00183794-1",
       "category": "Other"
     },
@@ -2823,7 +2850,7 @@
       "position": "Junior Software Engineer",
       "location": "Lake Oswego, OR",
       "salary": null,
-      "age": "53d",
+      "age": "54d",
       "url": "https://jobs.dayforcehcm.com/en-US/navex/121384/jobs/4337",
       "category": "Other"
     },
@@ -2832,7 +2859,7 @@
       "position": "Software Engineer 1",
       "location": "Maryland, USA",
       "salary": null,
-      "age": "53d",
+      "age": "54d",
       "url": "https://jobs.lever.co/wyetechllc/e9ee766a-35f4-44a0-80b3-122a74ea677d",
       "category": "Other"
     },
@@ -2841,7 +2868,7 @@
       "position": "Junior Software Engineer",
       "location": "Lake Oswego, OR +2",
       "salary": null,
-      "age": "54d",
+      "age": "55d",
       "url": "https://jobs.dayforcehcm.com/en-US/navex/jobopenings/jobs/4334",
       "category": "Other"
     },
@@ -2850,7 +2877,7 @@
       "position": "Junior Data Integration Developer",
       "location": "McLean, VA",
       "salary": null,
-      "age": "56d",
+      "age": "57d",
       "url": "http://bln24.applytojob.com/apply/u4LnqCH1Tz/Junior-Data-Integration-Developer",
       "category": "Other"
     },
@@ -2859,7 +2886,7 @@
       "position": "Associate Software Engineer - Embedded Development",
       "location": "Yinchuan, China +1",
       "salary": null,
-      "age": "56d",
+      "age": "57d",
       "url": "https://job-boards.greenhouse.io/relaypro/jobs/7968124",
       "category": "Other"
     },
@@ -2868,7 +2895,7 @@
       "position": "Software Engineer I",
       "location": "Denver, CO",
       "salary": null,
-      "age": "57d",
+      "age": "58d",
       "url": "https://careers.dat.com/jobs/6007145004?gh_jid=6007145004",
       "category": "Other"
     },
@@ -2877,7 +2904,7 @@
       "position": "Associate Software Engineer - Site Reliability",
       "location": "Yinchuan, China +1",
       "salary": null,
-      "age": "57d",
+      "age": "58d",
       "url": "https://job-boards.greenhouse.io/relaypro/jobs/7950142",
       "category": "Other"
     },
@@ -2886,7 +2913,7 @@
       "position": "Consulting Associate/Full Stack Developer - Forensic Services practice",
       "location": "Boston, MA +5",
       "salary": null,
-      "age": "58d",
+      "age": "59d",
       "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7954166",
       "category": "Other"
     },
@@ -2895,7 +2922,7 @@
       "position": "Management Services Developer I",
       "location": "San Antonio, TX",
       "salary": null,
-      "age": "58d",
+      "age": "59d",
       "url": "https://ibc.wd5.myworkdayjobs.com/en-US/ibc_careers/job/San-Antonio-TX/Management-Services-Developer-I_R15652",
       "category": "Other"
     },
@@ -2904,7 +2931,7 @@
       "position": "Full Stack Engineer - Associate",
       "location": "Salt Lake City, UT",
       "salary": null,
-      "age": "58d",
+      "age": "59d",
       "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452448002",
       "category": "Other"
     },
@@ -2913,7 +2940,7 @@
       "position": "Enterprise Cloud Systems Engineer - Associate",
       "location": "Fort Huachuca, AZ",
       "salary": null,
-      "age": "64d",
+      "age": "65d",
       "url": "https://jobs.lever.co/agile-defense/ad49c5eb-fe04-43ec-add8-151057111873",
       "category": "Other"
     },
@@ -2922,7 +2949,7 @@
       "position": "Junior Cloud Engineer - Hybrid",
       "location": "Herndon, VA",
       "salary": null,
-      "age": "64d",
+      "age": "65d",
       "url": "http://isienterprises.applytojob.com/apply/MFGArI1zqR/Junior-Cloud-Engineer-Hybrid",
       "category": "Other"
     },
@@ -2931,7 +2958,7 @@
       "position": "Software Engineer I",
       "location": "Austin, TX",
       "salary": null,
-      "age": "65d",
+      "age": "66d",
       "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/AUSTIN-03/Software-Engineer-I_R53009-1",
       "category": "Other"
     },
@@ -2940,7 +2967,7 @@
       "position": "Full Stack Engineer - Associate",
       "location": "New York City, NY",
       "salary": null,
-      "age": "65d",
+      "age": "66d",
       "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002",
       "category": "Other"
     },
@@ -2949,7 +2976,7 @@
       "position": "Software Engineer - Product - New Grad",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "65d",
+      "age": "66d",
       "url": "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6",
       "category": "Other"
     },
@@ -2958,17 +2985,8 @@
       "position": "Junior Embedded Software Development Engineer",
       "location": "Boston, MA",
       "salary": null,
-      "age": "66d",
-      "url": "https://sonos.wd1.myworkdayjobs.com/en-US/sonos/job/Boston-MA/Junior-Embedded-Software-Development-Engineer_R2666",
-      "category": "Other"
-    },
-    {
-      "company": "Acclaim Technical Services",
-      "position": "Java Software Engineer - 2026-0130",
-      "location": "Bethesda, MD",
-      "salary": null,
       "age": "67d",
-      "url": "http://acclaimtechnicalservices.applytojob.com/apply/ytYASBribp/Java-Software-Engineer-20260130",
+      "url": "https://sonos.wd1.myworkdayjobs.com/en-US/sonos/job/Boston-MA/Junior-Embedded-Software-Development-Engineer_R2666",
       "category": "Other"
     },
     {
@@ -2976,8 +2994,17 @@
       "position": "Dev Ops Engineer - 2026-0131",
       "location": "Bethesda, MD",
       "salary": null,
-      "age": "67d",
+      "age": "68d",
       "url": "http://acclaimtechnicalservices.applytojob.com/apply/cy8dflIrzs/Dev-Ops-Engineer-20260131",
+      "category": "Other"
+    },
+    {
+      "company": "Acclaim Technical Services",
+      "position": "Java Software Engineer - 2026-0130",
+      "location": "Bethesda, MD",
+      "salary": null,
+      "age": "68d",
+      "url": "http://acclaimtechnicalservices.applytojob.com/apply/ytYASBribp/Java-Software-Engineer-20260130",
       "category": "Other"
     },
     {
@@ -2985,7 +3012,7 @@
       "position": "Public Cloud Administrator - Entry Level",
       "location": "Louisville, KY +1",
       "salary": null,
-      "age": "67d",
+      "age": "68d",
       "url": "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Louisville---West-Market/Public-Cloud-Administrator--Entry-Level-_R_346358",
       "category": "Other"
     },
@@ -2994,7 +3021,7 @@
       "position": "Full Stack Software Engineer I or II",
       "location": "New York City, NY",
       "salary": null,
-      "age": "68d",
+      "age": "69d",
       "url": "https://apply.workable.com/cvector/j/0D0DE27033/",
       "category": "Other"
     },
@@ -3003,7 +3030,7 @@
       "position": "Software Support Specialist I",
       "location": "Phoenix, AZ",
       "salary": null,
-      "age": "68d",
+      "age": "69d",
       "url": "https://careers-daifuku-america.icims.com/jobs/21386/ilus---software-support-specialist-i/job",
       "category": "Other"
     },
@@ -3012,7 +3039,7 @@
       "position": "Associate Software Engineer - Full-Stack - Client Enablement",
       "location": "Falls Church, VA",
       "salary": null,
-      "age": "70d",
+      "age": "71d",
       "url": "http://bizflow.applytojob.com/apply/rKK24B6ISV/Associate-Software-Engineer-FullStack-Client-Enablement",
       "category": "Other"
     },
@@ -3021,7 +3048,7 @@
       "position": "Cloud Engineer - 2026-0129",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "71d",
+      "age": "72d",
       "url": "http://acclaimtechnicalservices.applytojob.com/apply/xldDFj35KJ/Cloud-Engineer-20260129",
       "category": "Other"
     },
@@ -3030,7 +3057,7 @@
       "position": "Software Engineer 1 - Data Domain",
       "location": "Scottsdale, AZ",
       "salary": null,
-      "age": "71d",
+      "age": "72d",
       "url": "https://choicehotels.wd5.myworkdayjobs.com/en-US/external/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R21707",
       "category": "Other"
     },
@@ -3039,7 +3066,7 @@
       "position": "Junior Dev Ops Engineer",
       "location": "Salt Lake City, UT",
       "salary": null,
-      "age": "71d",
+      "age": "72d",
       "url": "https://job-boards.greenhouse.io/traegergrills/jobs/7852723",
       "category": "Other"
     },
@@ -3048,7 +3075,7 @@
       "position": "Systems Software & Integration Engineer 2026",
       "location": "Hartford, CT",
       "salary": null,
-      "age": "72d",
+      "age": "73d",
       "url": "http://cscusystemoffice.applytojob.com/apply/0hfT9CfgaF/Systems-Software-Integration-Engineer-2026",
       "category": "Other"
     },
@@ -3057,7 +3084,7 @@
       "position": "Software Engineer I",
       "location": "Urbandale, IA",
       "salary": null,
-      "age": "72d",
+      "age": "73d",
       "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/integrity/job/Urbandale-IA/Software-Engineer-I_JR4072",
       "category": "Other"
     },
@@ -3066,7 +3093,7 @@
       "position": "Engineer I-Software",
       "location": "Houston, TX",
       "salary": null,
-      "age": "72d",
+      "age": "73d",
       "url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software_R2074-26-1",
       "category": "Other"
     },
@@ -3075,7 +3102,7 @@
       "position": "Associate - Software Engineer",
       "location": "Buffalo, NY +1",
       "salary": null,
-      "age": "73d",
+      "age": "74d",
       "url": "https://arbor.com/jobs?gh_jid=7731454003",
       "category": "Other"
     },
@@ -3084,7 +3111,7 @@
       "position": "Associate Product Developer",
       "location": "Beverly Hills, CA",
       "salary": null,
-      "age": "73d",
+      "age": "74d",
       "url": "https://job-boards.greenhouse.io/fambrands/jobs/5218217008",
       "category": "Other"
     },
@@ -3093,7 +3120,7 @@
       "position": "Junior Software Engineer",
       "location": "USA-San Mateo, CA",
       "salary": null,
-      "age": "73d",
+      "age": "74d",
       "url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/USA-San-Mateo-CA/Junior-Software-Engineer_JR112167",
       "category": "Other"
     },
@@ -3102,7 +3129,7 @@
       "position": "Software Engineer I",
       "location": "Silver Spring, MD",
       "salary": null,
-      "age": "73d",
+      "age": "74d",
       "url": "https://tsc.wd12.myworkdayjobs.com/en-US/tsc-careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1",
       "category": "Other"
     },
@@ -3111,7 +3138,7 @@
       "position": "Junior Cloud/SecDevOps Engineer",
       "location": "Clarksburg, WV",
       "salary": null,
-      "age": "74d",
+      "age": "75d",
       "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Clarksburg-WV/Junior-Cloud-SecDevOps-Engineer_R-00183101",
       "category": "Other"
     },
@@ -3120,7 +3147,7 @@
       "position": "2026 Early Career Embedded Software Engineer",
       "location": "Irvine, CA",
       "salary": null,
-      "age": "74d",
+      "age": "75d",
       "url": "https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/",
       "category": "Other"
     },
@@ -3129,7 +3156,7 @@
       "position": "Associate Software Engineer-Applications & Automation",
       "location": "Philadelphia, PA",
       "salary": null,
-      "age": "79d",
+      "age": "80d",
       "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000124986404-associate-software-engineer-applications-automation?oga=true",
       "category": "Other"
     },
@@ -3138,7 +3165,7 @@
       "position": "Software Engineer I",
       "location": "Remote - USA",
       "salary": null,
-      "age": "79d",
+      "age": "80d",
       "url": "https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5205535008",
       "category": "Other"
     },
@@ -3147,7 +3174,7 @@
       "position": "Junior Game Developer",
       "location": "Redmond, WA",
       "salary": null,
-      "age": "79d",
+      "age": "80d",
       "url": "https://jobs.lever.co/worldscape-technology/53fd0503-de34-4991-aa18-729da709c04e",
       "category": "Other"
     },
@@ -3156,7 +3183,7 @@
       "position": "Software Engineer I — Salesforce Integration - Tier 2 Security Clearance",
       "location": "USA",
       "salary": null,
-      "age": "80d",
+      "age": "81d",
       "url": "http://mandsc.applytojob.com/apply/oxEXxmWzn1/Software-Engineer-I-Salesforce-Integration-Tier-2-Security-Clearance",
       "category": "Other"
     },
@@ -3165,7 +3192,7 @@
       "position": "Developer I - Salesforce Integration - Tier 2 Security Clearance",
       "location": "USA",
       "salary": null,
-      "age": "80d",
+      "age": "81d",
       "url": "http://mandsc.applytojob.com/apply/bQOBIRNOGY/Developer-I-Salesforce-Integration-Tier-2-Security-Clearance",
       "category": "Other"
     },
@@ -3174,7 +3201,7 @@
       "position": "Software Engineer 1 - DevOps",
       "location": "Maryland, USA",
       "salary": null,
-      "age": "80d",
+      "age": "81d",
       "url": "https://jobs.lever.co/wyetechllc/9e0faa12-3b6a-4186-aa91-87b9a90e9de8",
       "category": "Other"
     },
@@ -3183,7 +3210,7 @@
       "position": "Embedded Software Engineer I/II",
       "location": "San Luis Obispo, CA",
       "salary": null,
-      "age": "81d",
+      "age": "82d",
       "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008",
       "category": "Other"
     },
@@ -3192,7 +3219,7 @@
       "position": "Software Development Engineer I - Early Career - 2026 Starts",
       "location": "Seattle, WA",
       "salary": null,
-      "age": "85d",
+      "age": "86d",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467",
       "category": "Other"
     },
@@ -3201,7 +3228,7 @@
       "position": "Avionics / Embedded Software Engineer I - Early Career - 2026 Starts",
       "location": "Seattle, WA +1",
       "salary": null,
-      "age": "85d",
+      "age": "86d",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Avionics-Software--Embedded--Engineer-I---Early-Career--2026-Starts-_R58482",
       "category": "Other"
     },
@@ -3210,7 +3237,7 @@
       "position": "Flight Software Associate - Fall 2026",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "86d",
+      "age": "87d",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4619289006",
       "category": "Other"
     },
@@ -3219,7 +3246,7 @@
       "position": "Software Engineer - Junior Level",
       "location": "Clarksburg, WV",
       "salary": null,
-      "age": "87d",
+      "age": "88d",
       "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Clarksburg-WV/Software-Engineer---Junior-Level_R-00182108",
       "category": "Other"
     },
@@ -3228,7 +3255,7 @@
       "position": "Junior Backend Java Developer - Enterprise Payments/Credit Card",
       "location": "Columbus, OH",
       "salary": null,
-      "age": "88d",
+      "age": "89d",
       "url": "https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Columbus-OH/Junior-Backend-Java-Developer--Enterprise-Payments-Credit-Card-_R0071836",
       "category": "Other"
     },
@@ -3237,7 +3264,7 @@
       "position": "Software Engineer I",
       "location": "Atlanta, GA",
       "salary": null,
-      "age": "89d",
+      "age": "90d",
       "url": "http://imaginexdigital.applytojob.com/apply/R6E4kcEwCd/Software-Engineer-I",
       "category": "Other"
     },
@@ -3246,7 +3273,7 @@
       "position": "Engineer I - Software Algorithm",
       "location": "Auburn Hills, MI",
       "salary": null,
-      "age": "89d",
+      "age": "90d",
       "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Auburn-Hills-Michigan-US/Engineer-I---Software-Algorithm_R00237795",
       "category": "Other"
     },
@@ -3255,7 +3282,7 @@
       "position": "Associate Software Engineer",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "92d",
+      "age": "93d",
       "url": "http://intelliforceitsolutionsgroup.applytojob.com/apply/Jwd6IkJeWT/Associate-Software-Engineer",
       "category": "Other"
     },
@@ -3264,7 +3291,7 @@
       "position": "Junior Software Developer",
       "location": "USA",
       "salary": null,
-      "age": "92d",
+      "age": "93d",
       "url": "https://careers-tatitlek.icims.com/jobs/2577/junior-software-developer/job",
       "category": "Other"
     },
@@ -3273,7 +3300,7 @@
       "position": "Software Engineer 1 - Potential Telework",
       "location": "Maryland, USA",
       "salary": null,
-      "age": "93d",
+      "age": "94d",
       "url": "https://jobs.lever.co/wyetechllc/00e1c676-92b4-400f-a44d-9a60a9fb88e2",
       "category": "Other"
     },
@@ -3282,7 +3309,7 @@
       "position": "Entry Level Recruiter/Sales Trainee - St. Cloud - MN",
       "location": "Saint Cloud, MN",
       "salary": null,
-      "age": "99d",
+      "age": "100d",
       "url": "https://careers-aerotek.icims.com/jobs/13376/entry-level-recruiter-sales-trainee-%28st.-cloud%2c-mn%29/job",
       "category": "Other"
     },
@@ -3291,7 +3318,7 @@
       "position": "Junior Software Engineer",
       "location": "New York City, NY",
       "salary": null,
-      "age": "100d",
+      "age": "101d",
       "url": "https://apply.workable.com/rokt/j/783A754DDB/",
       "category": "Other"
     },
@@ -3300,7 +3327,7 @@
       "position": "Junior Web Developer - Bilingual in Korean",
       "location": "Englewood Cliffs, NJ",
       "salary": null,
-      "age": "100d",
+      "age": "101d",
       "url": "https://jobs.smartrecruiters.com/SBTGlobalInc/3743990012627536--junior-web-developer-bilingual-in-korean-?oga=true",
       "category": "Other"
     },
@@ -3309,7 +3336,7 @@
       "position": "Software Development Manager - Hybrid in Okemos - MI - SDM-2026-01",
       "location": "Okemos, MI",
       "salary": null,
-      "age": "102d",
+      "age": "103d",
       "url": "https://jobs.lever.co/agatesoftware/c32e40b4-1df1-43f9-aee8-eff3ce85f0c1",
       "category": "Other"
     },
@@ -3318,7 +3345,7 @@
       "position": "Junior Full Stack Developer",
       "location": "Remote - Washington, DC",
       "salary": null,
-      "age": "102d",
+      "age": "103d",
       "url": "https://revolutional.com/job-openings/?gh_jid=7698325003",
       "category": "Other"
     },
@@ -3327,7 +3354,7 @@
       "position": "Software Developer - High-Performance I/O & Storage Systems",
       "location": "Crawley, United Kingdom +1",
       "salary": null,
-      "age": "102d",
+      "age": "103d",
       "url": "https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Crawley-United-Kingdom/Software-Developer---High-Performance-I-O---Storage-Systems_JR101251",
       "category": "Other"
     },
@@ -3336,7 +3363,7 @@
       "position": "Product Test Developer I",
       "location": "Niwot, CO",
       "salary": null,
-      "age": "103d",
+      "age": "104d",
       "url": "https://apply.workable.com/sparkfun-electronics-2/j/B929FF21FE/",
       "category": "Other"
     },
@@ -3345,7 +3372,7 @@
       "position": "Software Engineer - 2026-0079",
       "location": "Chantilly, VA",
       "salary": null,
-      "age": "105d",
+      "age": "106d",
       "url": "http://acclaimtechnicalservices.applytojob.com/apply/t4iNr7ALfs/Software-Engineer-20260079",
       "category": "Other"
     },
@@ -3354,7 +3381,7 @@
       "position": "Junior Software Developer",
       "location": "Annapolis Junction, MD",
       "salary": null,
-      "age": "105d",
+      "age": "106d",
       "url": "http://intelliforceitsolutionsgroup.applytojob.com/apply/sKU9DLXL7x/Junior-Software-Developer",
       "category": "Other"
     },
@@ -3363,7 +3390,7 @@
       "position": "Software Engineer - Junior",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "107d",
+      "age": "108d",
       "url": "https://jobs.ashbyhq.com/unlimitedindustries/5c5706fe-26ae-46d6-8423-e4721a5a98fc",
       "category": "Other"
     },
@@ -3372,7 +3399,7 @@
       "position": "Software Engineer - New Grad",
       "location": "USA",
       "salary": null,
-      "age": "107d",
+      "age": "108d",
       "url": "https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a",
       "category": "Other"
     },
@@ -3381,7 +3408,7 @@
       "position": "Graduate Software Engineer",
       "location": "Remote - USA",
       "salary": null,
-      "age": "109d",
+      "age": "110d",
       "url": "https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4833407101",
       "category": "Other"
     },
@@ -3390,7 +3417,7 @@
       "position": "Junior Full Stack Engineer",
       "location": "New York City, NY",
       "salary": null,
-      "age": "110d",
+      "age": "111d",
       "url": "https://apply.workable.com/mlabs/j/DDD1E9AF26/",
       "category": "Other"
     },
@@ -3399,7 +3426,7 @@
       "position": "Software Engineer - New Grad Program",
       "location": "San Francisco, CA",
       "salary": null,
-      "age": "110d",
+      "age": "111d",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003",
       "category": "Other"
     },
@@ -3408,7 +3435,7 @@
       "position": "Software Engineer - New Grad",
       "location": "Remote",
       "salary": null,
-      "age": "112d",
+      "age": "113d",
       "url": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f",
       "category": "Other"
     },
@@ -3417,7 +3444,7 @@
       "position": "Entry-Level PeopleSoft Software Developer",
       "location": "Charleston, SC",
       "salary": null,
-      "age": "112d",
+      "age": "113d",
       "url": "https://jobs.smartrecruiters.com/SOSi1/3743990012453536-entry-level-peoplesoft-software-developer-?oga=true",
       "category": "Other"
     },
@@ -3426,7 +3453,7 @@
       "position": "New Graduate Engineer - Software",
       "location": "Hawthorne, CA",
       "salary": null,
-      "age": "112d",
+      "age": "113d",
       "url": "https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002",
       "category": "Other"
     },
@@ -3435,7 +3462,7 @@
       "position": "Software Engineer - Early Career",
       "location": "Chicago, IL +1",
       "salary": null,
-      "age": "114d",
+      "age": "115d",
       "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002",
       "category": "Other"
     },
@@ -3444,7 +3471,7 @@
       "position": "Software Engineer I",
       "location": "Madison, WI +1",
       "salary": null,
-      "age": "116d",
+      "age": "117d",
       "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5840958004",
       "category": "Other"
     },
@@ -3453,7 +3480,7 @@
       "position": "Sustainment Software Engineer 1",
       "location": "Fort Meade, MD",
       "salary": null,
-      "age": "116d",
+      "age": "117d",
       "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8486869002",
       "category": "Other"
     }
